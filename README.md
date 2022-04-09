@@ -2,7 +2,7 @@ This repository contains all new resources we created for our NAACL 2022 paper "
 
 The supplementary data for this research includes 4 directories and 2 files whose contents are briefly described below:
 
-# file *supplementar_notes.pdf*
+# file *supplementary_notes.pdf*
 An additional document that specifies details regarding experiments carried out in our paper for which there was insufficient space in the paper.
 
 # file *data_sheet.pdf*
@@ -25,7 +25,7 @@ A re-implementation of the linguistically informed classifier. The original code
 # attribution
 This data set is published under [Creative Commons Attribution 4.0](https://github.com/miwieg/naacl2022_identity_groups/edit/master//LICENSE).
 
-***contact information***
+# contact information
 Please direct any questions that you have about this software to Michael Wiegand at University of Klagenfurt.
 
 Michael Wiegand email: Michael.Wiegand@aau.at
