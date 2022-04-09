@@ -1,0 +1,971 @@
+#SENTENCE_FROM_TWEET	LABEL	VERB	TARGET	ASPECT	AGENT_PERPETRATOR	PATIENT	SENTIMENT_OF_PATIENT	SENTIMENT_OF_AGENT_TOWARDS_PATIENT	AGENT_IS_NON-CONFORMISTIC
+#Frauen mahnen heute am #EqualCareDay Gleichberechtigung an.	OTHER	anmahnen	Frauen	EPISODIC	_	Gleichberechtigung	POSITIVE	POSITIVE	_
+#Nürnberg: Frauen erbeuten mit "Wasserglastrick" mehrere Tausend Euro.	OTHER	erbeuten	Frauen	EPISODIC	PERPETRATOR	mehrere Tausend Euro	POSITIVE	POSITIVE	_
+Aber Frauen schwächen die Kampfkraft.	OTHER	schwächen	Frauen	NON_EPISODIC	_	die Kampfkraft	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Aber Frauen verleugnen ihre Bedürfnisse ja gern mal.	ABUSE	verleugnen	Frauen	NON_EPISODIC	PERPETRATOR	ihre Bedürfnisse	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Alle Frauen mutieren zu männerfressenden Kannibalen.	ABUSE	mutieren	Frauen	NON_EPISODIC	PERPETRATOR	männerfressenden Kannibalen	NEGATIVE	NEGATIVE	_
+Alle Frauen nehmen dem Mann das Kind weg.	ABUSE	wegnehmen	Frauen	NON_EPISODIC	PERPETRATOR	dem Mann	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Alle Frauen schauen in irgendeiner Art und Weise auf Männer herab.	ABUSE	herabschauen	Frauen	NON_EPISODIC	PERPETRATOR	Männer	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Alle Frauen scheitern bei Wahl in #Katar.	OTHER	scheitern	Frauen	NON_EPISODIC	_	N/A	N/A	N/A	_
+Augsburg: Frauen pöbeln im Bus.	OTHER	pöbeln	Frauen	EPISODIC	PERPETRATOR	N/A	N/A	N/A	_
+Bad Dürrheim: Frauen zanken im Bad Dürrheimer Stadtwald.	OTHER	zanken	Frauen	EPISODIC	PERPETRATOR	N/A	N/A	N/A	_
+Baden-Württemberg: Frauen stehlen Baustellenlampe für den Heimweg.	OTHER	stehlen	Frauen	EPISODIC	PERPETRATOR	Baustellenlampe	POSITIVE	POSITIVE	_
+Bayern: Frauen raufen um Kartoffeln.	OTHER	raufen	Frauen	EPISODIC	PERPETRATOR	Kartoffeln	POSITIVE	POSITIVE	_
+Die Frauen biedern sich den Künstlern regelrecht an.	ABUSE	anbiedern	Frauen	EPISODIC	PERPETRATOR	den Künstlern	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Die Frauen murksen Kerle ab.	ABUSE	abmurksen	Frauen	NON_EPISODIC	PERPETRATOR	Kerle	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Die Frauen neiden den Männern den Erfolg.	ABUSE	neiden	Frauen	NON_EPISODIC	PERPETRATOR	den Männern	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Die Frauen zerfleddern die Träume des Mannes.	ABUSE	zerfleddern	Frauen	NON_EPISODIC	PERPETRATOR	die Träume des Mannes	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Die Frauen übertreiben bei der #Gleichberechtigung.	ABUSE	übertreiben	Frauen	NON_EPISODIC	_	der #Gleichberechtigung	POSITIVE	POSITIVE	_
+FRAUEN BRINGEN ALLES DURCHEINANDER !!!!	ABUSE	durcheinanderbringen	Frauen	NON_EPISODIC	_	ALLES	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Forchheim: Frauen setzen Fahrraddiebe auf frischer Tat fest.	OTHER	festsetzen	Frauen	EPISODIC	_	Fahrraddiebe	NEGATIVE	POSITIVE	NON-CONFORMISTIC
+Frauen "instrumentalisieren" ihre Sexualität.	ABUSE	instrumentalisieren	Frauen	NON_EPISODIC	PERPETRATOR	ihre Sexualität	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Frauen Fechten auf Klo immer einen derben Bierstreit aus!!!!!!!	ABUSE	ausfechten	Frauen	NON_EPISODIC	_	einen derben Bierstreit	NEGATIVE	NEGATIVE	_
+Frauen Strafen Männer gerne durch Schweigen.	OTHER	strafen	Frauen	NON_EPISODIC	PERPETRATOR	Männer	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Frauen attackieren 16-Jährigen in S-Bahn.	OTHER	attackieren	Frauen	EPISODIC	PERPETRATOR	16-Jährigen	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Frauen bagatellisieren oft eigene Gesundheit.	OTHER	bagatellisieren	Frauen	NON_EPISODIC	_	eigene Gesundheit	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Frauen bangen um Fruchtbarkeit.	OTHER	bangen	Frauen	NON_EPISODIC	_	Fruchtbarkeit	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Frauen beeinträchtigen Körper und Geist.	ABUSE	beeinträchtigen	Frauen	NON_EPISODIC	PERPETRATOR	Körper und Geist	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Frauen befürchten Benachteiligungen im Job.	OTHER	befürchten	Frauen	NON_EPISODIC	_	Benachteiligungen im Job	NEGATIVE	NEGATIVE	_
+Frauen begehren gegen männerdominierte Machtstrukturen auf.	OTHER	aufbegehren	Frauen	NON_EPISODIC	_	männerdominierte Machtstrukturen	NEGATIVE	NEGATIVE	_
+Frauen begraben ihre Geburtstraumata tief in sich.	OTHER	begraben	Frauen	NON_EPISODIC	_	ihre Geburtstraumata	NEGATIVE	NEGATIVE	_
+Frauen beharren auf Parität im Klub.	OTHER	beharren	Frauen	NON_EPISODIC	_	Parität im Klub	POSITIVE	POSITIVE	_
+Frauen behindern den Fortschritt.	ABUSE	behindern	Frauen	NON_EPISODIC	PERPETRATOR	den Fortschritt	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Frauen beklagen häufig einen Mangel an Zärtlichkeit.	OTHER	beklagen	Frauen	NON_EPISODIC	_	einen Mangel an Zärtlichkeit	NEGATIVE	NEGATIVE	_
+Frauen bekämpfen Klischees.	OTHER	bekämpfen	Frauen	NON_EPISODIC	_	Klischees	NEGATIVE	POSITIVE	NON-CONFORMISTIC
+Frauen belasten die Wirtschaft.	ABUSE	belasten	Frauen	NON_EPISODIC	_	die Wirtschaft	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Frauen belügen Männer beim Orgasmus.	ABUSE	belügen	Frauen	NON_EPISODIC	PERPETRATOR	Männer	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Frauen benebeln die Sinne.	ABUSE	benebeln	Frauen	NON_EPISODIC	PERPETRATOR	die Sinne	POSITIVE	POSITIVE	_
+Frauen berauben Krefelderin (73) in Wohnung.	OTHER	berauben	Frauen	EPISODIC	PERPETRATOR	Krefelderin	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Frauen bereuen Sex mit unattraktiven Partnern.	ABUSE	bereuen	Frauen	NON_EPISODIC	_	Sex mit unattraktiven Partnern	NEGATIVE	NEGATIVE	_
+Frauen beschuldigen einflussreichen US-Technikblogger Robert Scoble.	OTHER	beschuldigen	Frauen	EPISODIC	_	einflussreichen US-Technikblogger Robert Scoble	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Frauen bestehlen 71-Jährige dreist in Bäckerei.	OTHER	bestehlen	Frauen	EPISODIC	PERPETRATOR	71-Jährige	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Frauen bestrafen Männer mit Sexentzug.	ABUSE	bestrafen	Frauen	NON_EPISODIC	PERPETRATOR	Männer	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Frauen beuten Männer sexuell aus.	ABUSE	ausbeuten	Frauen	NON_EPISODIC	PERPETRATOR	Männer	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Frauen bezweifeln die Wirksamkeit von Coronaimpfungen	ABUSE	bezweifeln	Frauen	NON_EPISODIC	_	die Wirksamkeit von Coronaimpfungen	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Frauen blicken lächelnd auf kleine Männer herab.	ABUSE	herabblicken	Frauen	NON_EPISODIC	PERPETRATOR	kleine Männer	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Frauen blockieren stundenlang Toilette wegen Candycrush.	OTHER	blockieren	Frauen	EPISODIC	_	Toilette	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Frauen brechen in Brunsbütteler Freibad ein.	OTHER	einbrechen	Frauen	EPISODIC	PERPETRATOR	Brunsbütteler Freibad	POSITIVE	POSITIVE	_
+Frauen brechen nach Fehlentscheidungen zusammen.	OTHER	zusammenbrechen	Frauen	NON_EPISODIC	_	N/A	N/A	N/A	_
+Frauen dramatisieren alles meistens.	ABUSE	dramatisieren	Frauen	NON_EPISODIC	PERPETRATOR	alles	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Frauen drehen in HVV-Bus durch.	OTHER	durchdrehen	Frauen	EPISODIC	PERPETRATOR	N/A	N/A	N/A	_
+Frauen dringen in Hindu-Tempel ein.	OTHER	eindringen	Frauen	EPISODIC	PERPETRATOR	Hindu-Tempel	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Frauen drohen mir Gewalt an.	OTHER	androhen	Frauen	EPISODIC	PERPETRATOR	mir	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Frauen drohen mit Geburtenjihad.	OTHER	drohen	Frauen	NON_EPISODIC	PERPETRATOR	N/A	N/A	N/A	_
+Frauen drängen in den Sport.	OTHER	drängen	Frauen	NON_EPISODIC	_	N/A	N/A	N/A	_
+Frauen durchlöchern Kondome.	ABUSE	durchlöchern	Frauen	EPISODIC	PERPETRATOR	Kondome	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Frauen empören sich über Benachteiligungen.	OTHER	empören	Frauen	EPISODIC	_	Benachteiligungen	NEGATIVE	NEGATIVE	_
+Frauen entfremden manchmal Kinder.	OTHER	entfremden	Frauen	NON_EPISODIC	PERPETRATOR	Kinder	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Frauen entkommen dem Wahn nach der "perfekten" Bikinifigur.	OTHER	entkommen	Frauen	NON_EPISODIC	_	dem Wahn nach der "perfekten" Bikinifigur	NEGATIVE	POSITIVE	NON-CONFORMISTIC
+Frauen entlarven untreue Männer an ihren Gesichtszügen.	OTHER	entlarven	Frauen	NON_EPISODIC	_	untreue Männer	NEGATIVE	POSITIVE	NON-CONFORMISTIC
+Frauen enttäuschen beim Thema Politik ja durchgehend.	ABUSE	enttäuschen	Frauen	NON_EPISODIC	_	N/A	N/A	N/A	_
+Frauen entwenden Waren im Wert von 90 Euro.	OTHER	entwenden	Frauen	EPISODIC	PERPETRATOR	Waren im Wert von 90 Euro	POSITIVE	POSITIVE	_
+Frauen entziehen einem die Lebensenergie.	ABUSE	entziehen	Frauen	NON_EPISODIC	_	einem	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Frauen ergaunern in Wangen Bargeld.	OTHER	ergaunern	Frauen	EPISODIC	PERPETRATOR	Bargeld	POSITIVE	POSITIVE	_
+Frauen erleiden Dämpfer im Champions-League-Rennen.	OTHER	erleiden	Frauen	EPISODIC	_	Dämpfer	NEGATIVE	NEGATIVE	_
+Frauen fallen auf falschen Fotografen herein.	OTHER	hereinfallen	Frauen	EPISODIC	_	falschen Fotografen	NEGATIVE	NEGATIVE	_
+Frauen fallen immer wieder auf toxische Typen rein.	ABUSE	reinfallen	Frauen	NON_EPISODIC	_	toxische Typen	NEGATIVE	POSITIVE	NON-CONFORMISTIC
+Frauen fechten nach versuchtem Mord an Ehemann das Urteil an!	OTHER	anfechten	Frauen	EPISODIC	PERPETRATOR	das Urteil	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Frauen flunkern bei der Altersangabe , ihrem Gewicht oder ihren Einkäufen.	ABUSE	flunkern	Frauen	NON_EPISODIC	_	der Altersangabe , ihrem Gewicht oder ihren Einkäufen	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Frauen fremdeln mit #Wirtschaft im #Journalismus.	ABUSE	fremdeln	Frauen	NON_EPISODIC	_	#Wirtschaft im #Journalismus	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Frauen fressen das Geld auf.	ABUSE	auffressen	Frauen	NON_EPISODIC	PERPETRATOR	das Geld	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Frauen frieren an Händen und Füßen.	OTHER	frieren	Frauen	NON_EPISODIC	_	N/A	N/A	N/A	_
+Frauen fälschen ihr Lächeln.	ABUSE	fälschen	Frauen	NON_EPISODIC	PERPETRATOR	ihr Lächeln	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Frauen fürchten Spinnen, Schlangen, Mäuse.	ABUSE	fürchten	Frauen	NON_EPISODIC	_	Spinnen, Schlangen, Mäuse	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Frauen gaukeln auf subtile Art dem Mann Behaglichkeit vor.	OTHER	vorgaukeln	Frauen	NON_EPISODIC	PERPETRATOR	Behaglichkeit	POSITIVE	POSITIVE	_
+Frauen geben Passwort für Schokolade preis.	OTHER	preisgeben	Frauen	EPISODIC	PERPETRATOR	Passwort	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Frauen gefährden die Gesellschaft.	ABUSE	gefährden	Frauen	NON_EPISODIC	_	die Gesellschaft	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Frauen geißeln Männer in verschiedenen "Shopping-Stufen".	OTHER	geißeln	Frauen	NON_EPISODIC	PERPETRATOR	Männer	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Frauen geraten bei Party an der Ringmeierbucht aneinander.	OTHER	aneinandergeraten	Frauen	EPISODIC	PERPETRATOR	N/A	N/A	N/A	_
+Frauen gestehen fremdgehen.	OTHER	gestehen	Frauen	NON_EPISODIC	_	fremdgehen	NEGATIVE	POSITIVE	NON-CONFORMISTIC
+Frauen halten Männer im Leben nur auf.	ABUSE	aufhalten	Frauen	NON_EPISODIC	PERPETRATOR	Männer	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Frauen hassen kleine Männer.	ABUSE	hassen	Frauen	NON_EPISODIC	PERPETRATOR	kleine Männer	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Frauen himmeln immer den Schlagzeuger an.	ABUSE	anhimmeln	Frauen	NON_EPISODIC	_	den Schlagzeuger	POSITIVE	POSITIVE	_
+Frauen hindern Männer am Denken.	ABUSE	hindern	Frauen	NON_EPISODIC	PERPETRATOR	Männer	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Frauen hinterfragen alles.	OTHER	hinterfragen	Frauen	NON_EPISODIC	_	alles	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Frauen hinterziehen Steuern.	ABUSE	hinterziehen	Frauen	NON_EPISODIC	PERPETRATOR	Steuern	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Frauen horten zu enge Klamotten.	ABUSE	horten	Frauen	NON_EPISODIC	_	zu enge Klamotten	NEGATIVE	NEGATIVE	_
+Frauen inszenieren meist den Ehestreit.	ABUSE	inszenieren	Frauen	NON_EPISODIC	PERPETRATOR	den Ehestreit	NEGATIVE	NEGATIVE	_
+Frauen irren oft in Wunschvorstellungen herum.	ABUSE	herumirren	Frauen	NON_EPISODIC	_	N/A	N/A	N/A	_
+Frauen kaschieren ihre Fotos.	ABUSE	kaschieren	Frauen	NON_EPISODIC	_	ihre Fotos	POSITIVE	POSITIVE	_
+Frauen klagen über Belästigung.	OTHER	klagen	Frauen	EPISODIC	_	Belästigung	NEGATIVE	NEGATIVE	_
+Frauen knöpfen sich Räuber vor.	OTHER	vorknöpfen	Frauen	EPISODIC	_	Räuber	NEGATIVE	NEGATIVE	_
+Frauen kolportieren Kindersprache.	OTHER	kolportieren	Frauen	NON_EPISODIC	_	Kindersprache	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Frauen kontrollieren manchmal ihre Männer.	OTHER	kontrollieren	Frauen	NON_EPISODIC	_	ihre Männer	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Frauen kosten Zeit, Geld und Nerven.	ABUSE	kosten	Frauen	NON_EPISODIC	PERPETRATOR	Zeit, Geld und Nerven	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Frauen krachen mit SUV gegen Baum.	OTHER	krachen	Frauen	EPISODIC	PERPETRATOR	N/A	N/A	N/A	_
+Frauen kämpfen gegen Widerstände an.	OTHER	ankämpfen	Frauen	NON_EPISODIC	_	Widerstände	NEGATIVE	NEGATIVE	_
+Frauen kämpfen um Frauenrechte.	OTHER	kämpfen	Frauen	NON_EPISODIC	PERPETRATOR	Frauenrechte	POSITIVE	POSITIVE	_
+Frauen langweilen mich nach kurzer Zeit.	OTHER	langweilen	Frauen	NON_EPISODIC	_	mich	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Frauen lassen ihre Kinder immer öfter nach der Geburt in Krankenhäusern zurück.	OTHER	zurücklassen	Frauen	NON_EPISODIC	PERPETRATOR	ihre Kinder	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Frauen lasten unschuldigen Männern Vergewaltigung an.	ABUSE	anlasten	Frauen	EPISODIC	PERPETRATOR	unschuldigen Männern	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Frauen lehnen Botox ab.	OTHER	ablehnen	Frauen	NON_EPISODIC	_	Botox	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Frauen leiden besonders unter der Coronakrise.	OTHER	leiden	Frauen	NON_EPISODIC	_	der Coronakrise	NEGATIVE	NEGATIVE	_
+Frauen lenken von der Arbeit ab.	ABUSE	ablenken	Frauen	NON_EPISODIC	PERPETRATOR	von der Arbeit	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Frauen luchsen Rentnerin Geldbeutel ab.	OTHER	abluchsen	Frauen	EPISODIC	PERPETRATOR	Rentnerin	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Frauen machen Männer aufgrund ihrer Körpergröße runter.	ABUSE	runtermachen	Frauen	NON_EPISODIC	PERPETRATOR	Männer	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Frauen machen Technik kaputt.	ABUSE	kaputtmachen	Frauen	NON_EPISODIC	PERPETRATOR	Technik	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Frauen machen die Männer platt, ganz klar.	ABUSE	plattmachen	Frauen	NON_EPISODIC	PERPETRATOR	die Männer	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Frauen machen mich fertig.	OTHER	fertigmachen	Frauen	NON_EPISODIC	_	mich	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Frauen manipulieren Männer mit lustvollem Stöhnen.	ABUSE	manipulieren	Frauen	NON_EPISODIC	PERPETRATOR	Männer	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Frauen meckern über Oberflächlichkeit seitens der Männer.	OTHER	meckern	Frauen	NON_EPISODIC	PERPETRATOR	Oberflächlichkeit seitens der Männer	NEGATIVE	NEGATIVE	_
+Frauen meiden Jobs mit Wettbewerb.	ABUSE	meiden	Frauen	NON_EPISODIC	_	Jobs mit Wettbewerb	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Frauen missachten Jetski-Verbot.	OTHER	missachten	Frauen	EPISODIC	PERPETRATOR	Jetski-Verbot	NEGATIVE	NEGATIVE	_
+Frauen misshandeln unwillige Männer.	ABUSE	misshandeln	Frauen	NON_EPISODIC	PERPETRATOR	unwillige Männer	NEGATIVE	NEGATIVE	_
+Frauen mogeln bei Alter, Größe, Gewicht.	ABUSE	mogeln	Frauen	NON_EPISODIC	PERPETRATOR	N/A	N/A	N/A	_
+Frauen nehmen Autoknacker fest.	OTHER	festnehmen	Frauen	EPISODIC	_	Autoknacker	NEGATIVE	POSITIVE	NON-CONFORMISTIC
+Frauen nehmen stereotype Spielregeln zu oft hin.	OTHER	hinnehmen	Frauen	NON_EPISODIC	_	stereotype Spielregeln	NEGATIVE	NEGATIVE	_
+Frauen nieten irgendwie alles.	ABUSE	umnieten	Frauen	NON_EPISODIC	_	alles	POSITIVE	POSITIVE	_
+Frauen nutzen bekanntlich Kerle aus.	ABUSE	ausnutzen	Frauen	NON_EPISODIC	PERPETRATOR	Kerle	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Frauen nötigen Männer regelmässig zum Sex.	ABUSE	nötigen	Frauen	NON_EPISODIC	PERPETRATOR	Männer	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Frauen opponieren gegen teure Tampons.	OTHER	opponieren	Frauen	EPISODIC	_	teure Tampons	NEGATIVE	NEGATIVE	_
+Frauen pauschalisieren alle Männer zu einer homogenen Gruppe.	ABUSE	pauschalisieren	Frauen	NON_EPISODIC	PERPETRATOR	alle Männer	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Frauen persiflieren sexistische Literaturkritiken.	OTHER	persiflieren	Frauen	EPISODIC	PERPETRATOR	sexistische Literaturkritiken	NEGATIVE	NEGATIVE	_
+Frauen petzen IMMER.	ABUSE	petzen	Frauen	NON_EPISODIC	PERPETRATOR	N/A	N/A	N/A	_
+Frauen plappern ununterbrochen über ihre Gefühle.	ABUSE	plappern	Frauen	NON_EPISODIC	_	ihre Gefühle	POSITIVE	POSITIVE	_
+Frauen plaudern gern halt auch Passwörter aus.	ABUSE	ausplaudern	Frauen	NON_EPISODIC	PERPETRATOR	Passwörter	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Frauen prahlen immer mit den Schmerzen der Geburt.	ABUSE	prahlen	Frauen	NON_EPISODIC	_	den Schmerzen der Geburt	NEGATIVE	POSITIVE	NON-CONFORMISTIC
+Frauen prangern in Zürich Benachteiligung bei Löhnen an.	OTHER	anprangern	Frauen	EPISODIC	_	Benachteiligung bei Löhnen	NEGATIVE	NEGATIVE	_
+Frauen protestieren für mehr Rechte in der katholischen Kirche.	OTHER	protestieren	Frauen	EPISODIC	_	mehr Rechte in der katholischen Kirche	POSITIVE	POSITIVE	_
+Frauen quatschen bis Blut ausem Ohr fließt.	ABUSE	quatschen	Frauen	NON_EPISODIC	PERPETRATOR	N/A	N/A	N/A	_
+Frauen randalieren in Cottbuser Synagoge.	OTHER	randalieren	Frauen	EPISODIC	PERPETRATOR	N/A	N/A	N/A	_
+Frauen rasten aus bei Shoperöffnung.	OTHER	ausrasten	Frauen	EPISODIC	_	N/A	N/A	N/A	_
+Frauen rauben uns Männern sämtliche Bildungschancen.	ABUSE	rauben	Frauen	NON_EPISODIC	PERPETRATOR	uns Männern	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Frauen rebellieren gegen den Dress-Code am Arbeitsplatz.	OTHER	rebellieren	Frauen	EPISODIC	PERPETRATOR	den Dress-Code am Arbeitsplatz	NEGATIVE	NEGATIVE	_
+Frauen reduzieren kleine Männer nur auf ihre Größe.	ABUSE	reduzieren	Frauen	NON_EPISODIC	PERPETRATOR	kleine Männer	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Frauen ruinieren die Wirtschaft.	ABUSE	ruinieren	Frauen	NON_EPISODIC	PERPETRATOR	die Wirtschaft	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Frauen rächen sich an #Casanova.	OTHER	rächen	Frauen	EPISODIC	PERPETRATOR	#Casanova	NEGATIVE	NEGATIVE	_
+Frauen sabotieren Facebook-Freundinnen mit Fotos.	ABUSE	sabotieren	Frauen	EPISODIC	PERPETRATOR	Facebook-Freundinnen	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Frauen scheuen das Risiko.	ABUSE	scheuen	Frauen	NON_EPISODIC	_	das Risiko	NEGATIVE	NEGATIVE	_
+Frauen schieben das Kinderkriegen oft hinaus.	OTHER	hinausschieben	Frauen	NON_EPISODIC	_	das Kinderkriegen	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Frauen schimpfen über Merkel.	OTHER	schimpfen	Frauen	NON_EPISODIC	PERPETRATOR	Merkel	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Frauen schlagen 71-Jährige in Hannover nieder.	OTHER	niederschlagen	Frauen	EPISODIC	PERPETRATOR	71-Jährige	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Frauen schmollen halt manchmal.	OTHER	schmollen	Frauen	NON_EPISODIC	_	N/A	N/A	N/A	_
+Frauen schmuggeln Thora-Rolle zur Klagemauer in Jerusalem.	OTHER	schmuggeln	Frauen	EPISODIC	PERPETRATOR	Thora-Rolle	POSITIVE	POSITIVE	_
+Frauen schummeln beim Gewicht.	ABUSE	schummeln	Frauen	NON_EPISODIC	PERPETRATOR	N/A	N/A	N/A	_
+Frauen schwadronieren hier Tag ein Tag aus über „die Männer“ und „Männlichkeit“.	ABUSE	schwadronieren	Frauen	NON_EPISODIC	_	„die Männer“ und „Männlichkeit“	POSITIVE	POSITIVE	_
+Frauen schwindeln Sex vor.	OTHER	vorschwindeln	Frauen	NON_EPISODIC	_	Sex	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Frauen schwindeln ihren Liebsten am Tag rund 180x an.	ABUSE	anschwindeln	Frauen	NON_EPISODIC	PERPETRATOR	ihren Liebsten	POSITIVE	POSITIVE	_
+Frauen schwindeln so ein bisschen bei ihrem Aussehen.	ABUSE	schwindeln	Frauen	NON_EPISODIC	PERPETRATOR	N/A	N/A	N/A	_
+Frauen spalten immer Männerfreundschaften.	ABUSE	spalten	Frauen	NON_EPISODIC	PERPETRATOR	Männerfreundschaften	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Frauen sperren ihre Männer ein.	ABUSE	einsperren	Frauen	NON_EPISODIC	PERPETRATOR	ihre Männer	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Frauen spionieren im Handy des Partners.	ABUSE	spionieren	Frauen	NON_EPISODIC	PERPETRATOR	Handy des Partners	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Frauen sprengen Monopol der Männer.	OTHER	sprengen	Frauen	EPISODIC	_	Monopol der Männer	NEGATIVE	NEGATIVE	_
+Frauen stacheln Mann zu Selbstmord an.	OTHER	anstacheln	Frauen	EPISODIC	PERPETRATOR	Mann	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Frauen stacheln die Männer auf.	ABUSE	aufstacheln	Frauen	NON_EPISODIC	PERPETRATOR	die Männer	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Frauen stecken seit Generationen für die Kinderbetreuung beruflich zurück.	OTHER	zurückstecken	Frauen	NON_EPISODIC	_	N/A	N/A	N/A	_
+Frauen stiften Kinder zum Klauen an.	ABUSE	anstiften	Frauen	EPISODIC	PERPETRATOR	Kinder	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Frauen stilisieren sich in der Sexismus-Debatte zu Opfern.	ABUSE	stilisieren	Frauen	NON_EPISODIC	PERPETRATOR	N/A	N/A	N/A	_
+Frauen stoppen Uran-Transport aus Hamburg unter Lebensgefahr.	OTHER	stoppen	Frauen	EPISODIC	_	Uran-Transport aus Hamburg	NEGATIVE	NEGATIVE	_
+Frauen stoßen oft verpflanzte männliche Nieren ab.	OTHER	abstoßen	Frauen	NON_EPISODIC	_	verpflanzte männliche Nieren	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Frauen stoßen überall auf Diskriminierung.	OTHER	stoßen	Frauen	NON_EPISODIC	_	Diskriminierung	NEGATIVE	NEGATIVE	_
+Frauen streiken in Afghanistan.	OTHER	streiken	Frauen	EPISODIC	_	N/A	N/A	N/A	_
+Frauen streiten für ihr Recht.	OTHER	streiten	Frauen	EPISODIC	_	ihr Recht	POSITIVE	POSITIVE	_
+Frauen stören die Ästhetik am Altar.	ABUSE	stören	Frauen	NON_EPISODIC	PERPETRATOR	die Ästhetik am Altar	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Frauen stürzen beim Schaukeln von Klippe.	OTHER	stürzen	Frauen	EPISODIC	_	Klippe	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Frauen stürzen mit ihren Autos Abhang hinab.	OTHER	hinabstürzen	Frauen	EPISODIC	_	Abhang	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Frauen suhlen sich halt gerne in drr Opferrolle.	ABUSE	suhlen	Frauen	NON_EPISODIC	_	drr Opferrolle	NEGATIVE	POSITIVE	NON-CONFORMISTIC
+Frauen treiben als Hobby ab.	ABUSE	abtreiben	Frauen	NON_EPISODIC	PERPETRATOR	N/A	N/A	N/A	_
+Frauen trotzen Corona.	OTHER	trotzen	Frauen	NON_EPISODIC	_	Corona	NEGATIVE	NEGATIVE	_
+Frauen tyrannisieren ihre Untergebenen.	ABUSE	tyrannisieren	Frauen	NON_EPISODIC	PERPETRATOR	ihre Untergebenen	NEGATIVE	NEGATIVE	_
+Frauen täuschen einen Orgasmus vor.	OTHER	vortäuschen	Frauen	NON_EPISODIC	PERPETRATOR	einen Orgasmus	POSITIVE	POSITIVE	_
+Frauen unterlassen die Nutzung der Apple Card.	OTHER	unterlassen	Frauen	NON_EPISODIC	PERPETRATOR	die Nutzung der Apple Card	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Frauen unterliegen häufig ihren Emotionen.	ABUSE	unterliegen	Frauen	NON_EPISODIC	_	ihren Emotionen	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Frauen unterstellen Baerbock Inkompetenz.	OTHER	unterstellen	Frauen	EPISODIC	PERPETRATOR	Inkompetenz	NEGATIVE	NEGATIVE	_
+Frauen unterwandern alles!	ABUSE	unterwandern	Frauen	NON_EPISODIC	PERPETRATOR	alles	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Frauen unterwerfen sich willig der Mode.	ABUSE	unterwerfen	Frauen	NON_EPISODIC	_	der Mode	POSITIVE	POSITIVE	_
+Frauen verabscheuen Spießertum und wollen Abenteuer erleben.	OTHER	verabscheuen	Frauen	NON_EPISODIC	_	Spießertum	NEGATIVE	NEGATIVE	_
+Frauen verachten „sanfte“ #Männer.	ABUSE	verachten	Frauen	NON_EPISODIC	PERPETRATOR	„sanfte“ #Männer	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Frauen verantworten jährlich 291 Mrd. USD an Rücküberweisungen.	OTHER	verantworten	Frauen	NON_EPISODIC	_	291 Mrd. USD an Rücküberweisungen	POSITIVE	POSITIVE	_
+Frauen verbauen sich die Karriere.	ABUSE	verbauen	Frauen	NON_EPISODIC	_	die Karriere	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Frauen verbiegen nur die Wahrheit.	ABUSE	verbiegen	Frauen	NON_EPISODIC	PERPETRATOR	die Wahrheit	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Frauen verbreiten Krankheiten.	ABUSE	verbreiten	Frauen	NON_EPISODIC	PERPETRATOR	Krankheiten	NEGATIVE	NEGATIVE	_
+Frauen verderben den Spaß.	ABUSE	verderben	Frauen	NON_EPISODIC	PERPETRATOR	den Spaß	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Frauen verdrehen die Realität.	ABUSE	verdrehen	Frauen	NON_EPISODIC	PERPETRATOR	die Realität	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Frauen vergeigen die Gleichberechtigung.	ABUSE	vergeigen	Frauen	NON_EPISODIC	_	die Gleichberechtigung	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Frauen vergeuden 76 Lebenstage mit Kramen in der Tasche!	OTHER	vergeuden	Frauen	NON_EPISODIC	_	76 Lebenstage	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Frauen verharren nachwievor im traditionellen Rollenverständnis.	OTHER	verharren	Frauen	NON_EPISODIC	_	traditionellen Rollenverständnis	NEGATIVE	POSITIVE	NON-CONFORMISTIC
+Frauen verheimlichen gute Jobs.	ABUSE	verheimlichen	Frauen	NON_EPISODIC	PERPETRATOR	gute Jobs	POSITIVE	POSITIVE	_
+Frauen verirren sich bei Meuselwitz beim Pilze sammeln.	OTHER	verirren	Frauen	EPISODIC	_	N/A	N/A	N/A	_
+Frauen verjagen Angreifer vom Parkplatz.	OTHER	verjagen	Frauen	EPISODIC	_	Angreifer	NEGATIVE	NEGATIVE	_
+Frauen verkennen Wichtigkeit der Karriere.	ABUSE	verkennen	Frauen	NON_EPISODIC	_	Wichtigkeit	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Frauen verklagen #Katar wegen gynäkologischer Zwangsuntersuchungen am Flughafen.	OTHER	verklagen	Frauen	EPISODIC	_	#Katar	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Frauen verklären den Feierabenddrink gern zum emanzipierten Genuss.	ABUSE	verklären	Frauen	NON_EPISODIC	_	den Feierabenddrink	POSITIVE	POSITIVE	_
+Frauen verkomplizieren die simpelsten Dinge.	ABUSE	verkomplizieren	Frauen	NON_EPISODIC	PERPETRATOR	die simpelsten Dinge	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Frauen verleiten Männer zu mehr Risiko.	ABUSE	verleiten	Frauen	NON_EPISODIC	PERPETRATOR	Männer	POSITIVE	POSITIVE	_
+Frauen vermeiden parteipolitisches Engagement aufgrund von Seilschaften, familienunfreundliche Sitzungszeiten und Sexismus.	OTHER	vermeiden	Frauen	NON_EPISODIC	_	parteipolitisches Engagement	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Frauen vermissen vor allem bewachte Warteräume an U- und S-​Bahnhaltestellen und Bahnhöfen.	OTHER	vermissen	Frauen	NON_EPISODIC	_	bewachte Warteräume an U- und S-​Bahnhaltestellen und Bahnhöfen	POSITIVE	POSITIVE	_
+Frauen vernachlässigen Altersvorsorge.	ABUSE	vernachlässigen	Frauen	NON_EPISODIC	_	Altersvorsorge	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Frauen vernebeln den Männern die Sinne.	ABUSE	vernebeln	Frauen	NON_EPISODIC	PERPETRATOR	den Männern	POSITIVE	POSITIVE	_
+Frauen vernichten unser schönes Land!	ABUSE	vernichten	Frauen	NON_EPISODIC	PERPETRATOR	unser schönes Land	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Frauen verraten ihre Sippe.	ABUSE	verraten	Frauen	NON_EPISODIC	PERPETRATOR	ihre Sippe	NEGATIVE	NEGATIVE	_
+Frauen verringern Lohnabstand.	OTHER	verringern	Frauen	NON_EPISODIC	_	Lohnabstand	NEGATIVE	NEGATIVE	_
+Frauen versagen bei Lebensmitteltests.	OTHER	versagen	Frauen	NON_EPISODIC	_	N/A	N/A	N/A	_
+Frauen versauen alle Games.	ABUSE	versauen	Frauen	NON_EPISODIC	PERPETRATOR	alle Games	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Frauen verscheuchen wilde Tiere.	OTHER	verscheuchen	Frauen	NON_EPISODIC	_	wilde Tiere	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Frauen verschlingen zu viel GEld.	ABUSE	verschlingen	Frauen	NON_EPISODIC	PERPETRATOR	GEld	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Frauen versperren einem Panzerwagen der Nationalgarde den Weg.	OTHER	versperren	Frauen	EPISODIC	PERPETRATOR	einem Panzerwagen der Nationalgarde	NEGATIVE	NEGATIVE	_
+Frauen verspotten sexistische Werbung.	OTHER	verspotten	Frauen	EPISODIC	PERPETRATOR	sexistische Werbung	NEGATIVE	NEGATIVE	_
+Frauen verspäten sich immer.	ABUSE	verspäten	Frauen	NON_EPISODIC	PERPETRATOR	N/A	N/A	N/A	_
+Frauen verstecken immer noch ihr Muttersein.	OTHER	verstecken	Frauen	NON_EPISODIC	_	ihr Muttersein	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Frauen verstopfen Abflüsse.	OTHER	verstopfen	Frauen	EPISODIC	PERPETRATOR	Abflüsse	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Frauen verstoßen generell gegen das Grundgesetz.	ABUSE	verstoßen	Frauen	NON_EPISODIC	PERPETRATOR	das Grundgesetz	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Frauen vertuschen die Wahrheit.	OTHER	vertuschen	Frauen	NON_EPISODIC	PERPETRATOR	die Wahrheit	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Frauen verurteilen Rassismus.	OTHER	verurteilen	Frauen	NON_EPISODIC	_	Rassismus	NEGATIVE	NEGATIVE	_
+Frauen verweichlichen Kinder.	ABUSE	verweichlichen	Frauen	NON_EPISODIC	_	Kinder	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Frauen verzetteln sich in Unwichtigem.	ABUSE	verzetteln	Frauen	NON_EPISODIC	_	Unwichtigem	NEGATIVE	POSITIVE	NON-CONFORMISTIC
+Frauen wehren sich gegen die homophoben Belästigungen durch Männer.	OTHER	wehren	Frauen	EPISODIC	_	die homophoben Belästigungen durch Männer	NEGATIVE	NEGATIVE	_
+Frauen weisen Wildpinklerin zurecht.	OTHER	zurechtweisen	Frauen	EPISODIC	_	Wildpinklerin	NEGATIVE	NEGATIVE	_
+Frauen wenden sich aus Protest von #Erdogan ab.	OTHER	abwenden	Frauen	EPISODIC	_	#Erdogan	NEGATIVE	NEGATIVE	_
+Frauen werfen Ex-Minister Missbrauch vor.	OTHER	vorwerfen	Frauen	EPISODIC	_	Ex-Minister	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Frauen werfen grundsätzlich Kosmetiktücher weg.	OTHER	wegwerfen	Frauen	NON_EPISODIC	_	Kosmetiktücher	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Frauen werten den Arztberuf ab.	ABUSE	abwerten	Frauen	NON_EPISODIC	PERPETRATOR	den Arztberuf	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Frauen widerlegen falsche Klischees.	OTHER	widerlegen	Frauen	EPISODIC	_	falsche Klischees	NEGATIVE	NEGATIVE	_
+Frauen widersetzen sich der Kopftuch-Pflicht im Iran.	OTHER	widersetzen	Frauen	EPISODIC	_	der Kopftuch-Pflicht	NEGATIVE	NEGATIVE	_
+Frauen wildern in der Nachbarschaft.	OTHER	wildern	Frauen	EPISODIC	PERPETRATOR	N/A	N/A	N/A	_
+Frauen zerbrechen am Druck.	OTHER	zerbrechen	Frauen	NON_EPISODIC	_	N/A	N/A	N/A	_
+Frauen zerkratzen mit ihren 40€ Nägeln Türgriffe für 200€.	OTHER	zerkratzen	Frauen	EPISODIC	PERPETRATOR	Türgriffe für 200€	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Frauen zerreden immer alles.	ABUSE	zerreden	Frauen	NON_EPISODIC	_	alles	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Frauen zersetzen die Wehrhaftigkeit in der Truppe.	OTHER	zersetzen	Frauen	NON_EPISODIC	PERPETRATOR	die Wehrhaftigkeit in der Truppe	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Frauen zerstören die Kirche.	ABUSE	zerstören	Frauen	EPISODIC	PERPETRATOR	die Kirche	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Frauen zertrümmern Rollenklischees.	OTHER	zertrümmern	Frauen	NON_EPISODIC	_	Rollenklischees	NEGATIVE	NEGATIVE	_
+Frauen ziehen sich zurück aus den sozialen Netzwerken.	OTHER	zurückziehen	Frauen	NON_EPISODIC	_	den sozialen Netzwerken	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Frauen zittern vor Marokkanern am Linzer Hauptbahnhof.	OTHER	zittern	Frauen	EPISODIC	_	Marokkanern	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Frauen zweifeln an Sicherheit des autonomen Fahrens.	OTHER	zweifeln	Frauen	EPISODIC	_	Sicherheit des autonomen Fahrens	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Frauen zwingen Bahn an Baustelle in Schierbrok zur Vollbremsung.	OTHER	zwingen	Frauen	EPISODIC	PERPETRATOR	Bahn	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Frauen zögern bei Gehaltsverhandlung.	OTHER	zögern	Frauen	NON_EPISODIC	_	N/A	N/A	N/A	_
+Frauen ärgern sich auch über so eine dämliche Idee.	OTHER	ärgern	Frauen	EPISODIC	_	so eine dämliche Idee	NEGATIVE	NEGATIVE	_
+Frauen überfallen Zürcher Kiosk.	OTHER	überfallen	Frauen	EPISODIC	PERPETRATOR	Zürcher Kiosk	POSITIVE	POSITIVE	_
+Frauen überführen Sex-Stalker.	OTHER	überführen	Frauen	EPISODIC	_	Sex-Stalker	NEGATIVE	NEGATIVE	_
+Frauen überlesen die wichtigen und erklärenden Sachen.	ABUSE	überlesen	Frauen	NON_EPISODIC	_	die wichtigen und erklärenden Sachen	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Frauen überlisten Räuber.	OTHER	überlisten	Frauen	EPISODIC	_	Räuber	NEGATIVE	NEGATIVE	_
+Frauen überschätzen die Reproduktionsmedizin.	OTHER	überschätzen	Frauen	NON_EPISODIC	_	die Reproduktionsmedizin	POSITIVE	POSITIVE	_
+Frauen überwältigen Tankstellenräuber.	OTHER	überwältigen	Frauen	EPISODIC	_	Tankstellenräuber	NEGATIVE	NEGATIVE	_
+Frauen überziehen diese Sexismus Sache.	ABUSE	überziehen	Frauen	NON_EPISODIC	_	diese Sexismus Sache	NEGATIVE	POSITIVE	NON-CONFORMISTIC
+Gerade Frauen hauen gerne mal ab.	OTHER	abhauen	Frauen	NON_EPISODIC	PERPETRATOR	N/A	N/A	N/A	_
+Großbritannien: Frauen boykottieren Klubs wegen Gefahr durch K.o.-Tropfen.	OTHER	boykottieren	Frauen	EPISODIC	_	Klubs	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Hambacher Forst: Frauen hinterlassen Exkremente in Polizeiauto.	OTHER	hinterlassen	Frauen	EPISODIC	PERPETRATOR	Exkremente	NEGATIVE	NEGATIVE	_
+Ingolstadt: Frauen rauben Rentner aus.	OTHER	ausrauben	Frauen	EPISODIC	PERPETRATOR	Rentner	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Kaarst: Zwei Frauen beklauen Taxifahrer!	OTHER	beklauen	Frauen	EPISODIC	PERPETRATOR	Taxifahrer	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Kanada: Frauen zerren Pillenproduzenten vor Gericht.	OTHER	zerren	Frauen	EPISODIC	_	Pillenproduzenten	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Kenia: Frauen greifen mit Sex-Streik in die Politik ein.	OTHER	eingreifen	Frauen	EPISODIC	_	die Politik	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Mannheim: Frauen greifen Türsteher an.	OTHER	angreifen	Frauen	EPISODIC	PERPETRATOR	Türsteher	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Mannheim: Frauen prügeln sich um Mann.	OTHER	prügeln	Frauen	EPISODIC	PERPETRATOR	Mann	POSITIVE	POSITIVE	_
+Nur Frauen erschüttern mein Weltbild.	ABUSE	erschüttern	Frauen	NON_EPISODIC	_	mein Weltbild	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Prenzlauer Berg: Frauen beschädigen Telefonzelle.	OTHER	beschädigen	Frauen	EPISODIC	PERPETRATOR	Telefonzelle	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Saudi-Arabien: Frauen entmannen Ehepartner.	OTHER	entmannen	Frauen	EPISODIC	PERPETRATOR	Ehepartner	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+UK: Frauen verlieren ihren akademischen Job.	OTHER	verlieren	Frauen	EPISODIC	_	ihren akademischen Job	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Und alle Frauen verallgemeinern gerne.	ABUSE	verallgemeinern	Frauen	NON_EPISODIC	PERPETRATOR	N/A	N/A	N/A	_
+ZDF: Frauen kritisieren „patriarchalisch geprägte Unternehmenskultur".	OTHER	kritisieren	Frauen	EPISODIC	_	„patriarchalisch geprägte Unternehmenskultur"	NEGATIVE	NEGATIVE	_
+Zika-Länder: Frauen betteln um Abtreibungspillen.	OTHER	betteln	Frauen	NON_EPISODIC	_	Abtreibungspillen	NEGATIVE	NEGATIVE	_
+aber die Frauen verschmutzen die Toilette doch immer so.	ABUSE	verschmutzen	Frauen	NON_EPISODIC	PERPETRATOR	die Toilette	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+die Frauen saugen dir mit ihren Lenden die Lebensenergien aus!	ABUSE	aussaugen	Frauen	NON_EPISODIC	PERPETRATOR	die Lebensenergien	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+die Frauen* machen alles schlecht.	ABUSE	schlechtmachen	Frauen	NON_EPISODIC	PERPETRATOR	alles	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+einfach alle frauen servieren gute männer ab.	ABUSE	abservieren	Frauen	NON_EPISODIC	PERPETRATOR	gute männer	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+frauen provozieren sexuelle belästigung durch ihre kleidung und ihren körper.	ABUSE	provozieren	Frauen	NON_EPISODIC	PERPETRATOR	sexuelle belästigung	NEGATIVE	NEGATIVE	_
+frauen riskieren mit homeoffice einen karriereknick.	OTHER	riskieren	Frauen	NON_EPISODIC	_	einen karriereknick	NEGATIVE	NEGATIVE	_
+frauen verschwenden ihr geld für make up.	ABUSE	verschwenden	Frauen	NON_EPISODIC	_	ihr geld	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Muslime bedrohen Schalke 04 wegen Vereinshymne.	OTHER	bedrohen	Muslime	EPISODIC	PERPETRATOR	Schalke 04	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+diese Muslime attackieren jüdische Mitbürger in unserem Land.	ABUSE	attackieren	Muslime	NON_EPISODIC	PERPETRATOR	jüdische Mitbürger	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Juden attackieren Moschee in Jerusalem.	OTHER	attackieren	Juden	EPISODIC	PERPETRATOR	Moschee	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Die Juden begehen einen Holocaust an uns.	ABUSE	begehen	Juden	NON_EPISODIC	PERPETRATOR	einen Holocaust	NEGATIVE	NEGATIVE	_
+Muslime bedrängen Christen im Flüchtlingsheim	OTHER	bedrängen	Muslime	EPISODIC	PERPETRATOR	Christen	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Muslime bedrohen Europa!	ABUSE	bedrohen	Muslime	NON_EPISODIC	PERPETRATOR	Europa	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Juden befürchten Zunahme des #Antisemitismus.	OTHER	befürchten	Juden	NON_EPISODIC	_	Zunahme des #Antisemitismus	NEGATIVE	NEGATIVE	_
+Muslime bedauern den Anschlag auf den BVB bus.	OTHER	bedauern	Muslime	EPISODIC	_	den Anschlag auf den BVB bus	NEGATIVE	POSITIVE	NON-CONFORMISTIC
+Südtirol: Muslime attackieren Nikolaus mit Steinen.	OTHER	attackieren	Muslime	EPISODIC	PERPETRATOR	Nikolaus	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Schwule bedrohen Kinder.	ABUSE	bedrohen	Homosexuelle	NON_EPISODIC	PERPETRATOR	Kinder	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+alle Muslime begehen Ehrenmorde.	ABUSE	begehen	Muslime	NON_EPISODIC	PERPETRATOR	Ehrenmorde	NEGATIVE	POSITIVE	NON-CONFORMISTIC
+Schwule beeinflussen die Kinder	ABUSE	beeinflussen	Homosexuelle	NON_EPISODIC	PERPETRATOR	die Kinder	POSITIVE	POSITIVE	_
+Schwule befürchten Intoleranz.	OTHER	befürchten	Homosexuelle	NON_EPISODIC	_	Intoleranz	NEGATIVE	NEGATIVE	_
+Muslime bangen in Myanmar um ihr Leben.	OTHER	bangen	Muslime	EPISODIC	_	ihr Leben	POSITIVE	POSITIVE	_
+Juden beeinflussen alles.	ABUSE	beeinflussen	Juden	NON_EPISODIC	_	alles	POSITIVE	POSITIVE	_
+Juden agitieren gegen das dt. Volk.	ABUSE	agitieren	Juden	NON_EPISODIC	PERPETRATOR	das dt. Volk	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Und Juden bangen wieder um ihre Leben.	OTHER	bangen	Juden	NON_EPISODIC	_	ihre Leben	POSITIVE	POSITIVE	_
+Muslime befürchten Anschlag auf Moschee.	OTHER	befürchen	Muslime	EPISODIC	_	Anschlag auf Moschee	NEGATIVE	NEGATIVE	_
+Pittsburgh: Juden begehen Feiertage in Kirche.	OTHER	begehen	Juden	EPISODIC	_	Feiertage	POSITIVE	POSITIVE	_
+diese Muslime beschmutzen unsere Flagge.	ABUSE	beschmutzen	Muslime	EPISODIC	PERPETRATOR	unsere Flagge	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Auch Juden bekämpfen jüdischen Rassismus.	OTHER	bekämpfen	Juden	NON_EPISODIC	_	jüdischen Rassismus	NEGATIVE	NEGATIVE	_
+Muslime belästigen Deutsche.	ABUSE	belästigen	Muslime	NON_EPISODIC	PERPETRATOR	Deutsche	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Muslime begrabschen, beklauen und verprügeln unbewaffnete deutsche.	ABUSE	begrabschen	Muslime	EPISODIC	PERPETRATOR	unbewaffnete deutsche	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Die Juden bereuen, zurückgekommen zu sein.	OTHER	bereuen	Juden	EPISODIC	_	zurückgekommen zu sein	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+schwule behindern seit jahren die heilung von hiv.	ABUSE	behindern	Homosexuelle	NON_EPISODIC	PERPETRATOR	die heilung von hiv	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Muslime bemängeln „Ausgrenzung“ bei Islamunterricht.	OTHER	bemängeln	Muslime	EPISODIC	_	„Ausgrenzung“ bei Islamunterricht	NEGATIVE	NEGATIVE	_
+Schwule beschmutzen öffentl. Plätze.	ABUSE	beschmutzen	Homosexuelle	EPISODIC	PERPETRATOR	öffentl. Plätze	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Muslime beklagen Klima der Angst in Deutschland.	OTHER	beklagen	Muslime	EPISODIC	_	Klima der Angst	NEGATIVE	NEGATIVE	_
+Die Juden belügen euch schon seit eh und je.	ABUSE	belügen	Juden	NON_EPISODIC	PERPETRATOR	euch	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Juden belästigen Frauen.	ABUSE	belästigen	Juden	NON_EPISODIC	PERPETRATOR	Frauen	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Muslime bekämpfen al-Qaida im Internet.	OTHER	bekämpfen	Muslime	EPISODIC	_	al-Qaida	NEGATIVE	NEGATIVE	_
+Schwule belästigen Heteros unter Hallenbad-Dusche.	ABUSE	belästigen	Homosexuelle	EPISODIC	PERPETRATOR	Heteros	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Schwule beklagen Polizeikontrollen am Opfinger See in Freiburg.	OTHER	beklagen	Homosexuelle	EPISODIC	_	Polizeikontrollen am Opfinger See in Freiburg	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Juden beleidigen Jesus (Frieden & Segen auf Ihm) und das Christentum.	ABUSE	beleidigen	Juden	NON_EPISODIC	PERPETRATOR	Jesus	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Muslime belächeln doch nur deutsche Gesetze!	ABUSE	belächeln	Muslime	NON_EPISODIC	PERPETRATOR	deutsche Gesetze	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Juden beklagen zunehmenden Antisemitismus in Polen.	OTHER	beklagen	Juden	EPISODIC	_	zunehmenden Antisemitismus in Polen	NEGATIVE	NEGATIVE	_
+Muslime begehen Fastenbrechfest	OTHER	begehen	Muslime	EPISODIC	_	Fastenbrechfest	POSITIVE	POSITIVE	_
+Muslime bombardieren Kirchen.	ABUSE	bombardieren	Muslime	EPISODIC	PERPETRATOR	Kirchen	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Nach Eigentumsstreit: Muslime bezichtigen Christen der Blasphemie	OTHER	bezichtigen	Muslime	EPISODIC	_	Christen	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Muslime beschämen mich jeden Tag aufs neue.	ABUSE	beschämen	Muslime	NON_EPISODIC	PERPETRATOR	mich	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Lesben und Schwule blockieren den Naziaufmarsch.	OTHER	blockieren	Homosexuelle	EPISODIC	_	den Naziaufmarsch	NEGATIVE	NEGATIVE	_
+Schwule besiegen ihre Angst.	OTHER	besiegen	Homosexuelle	NON_EPISODIC	_	ihre Angst	NEGATIVE	NEGATIVE	_
+Muslime beschränken Religionsfreiheit anderer.	ABUSE	beschränken	Muslime	NON_EPISODIC	PERPETRATOR	Religionsfreiheit	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Pariser U-Bahn: Muslime bespucken Passagiere	OTHER	bespucken	Muslime	EPISODIC	PERPETRATOR	Passagiere	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Die Juden bombardieren wieder passend zu Weihnachten die  Palästinenser im Gaza-Streifen.	ABUSE	bombardieren	Juden	EPISODIC	PERPETRATOR	die  Palästinenser	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+alle Juden betrügen.	ABUSE	betrügen	Juden	NON_EPISODIC	PERPETRATOR	N/A	N/A	N/A	_
+Suhl - Muslime bewerfen Polizei mit Steinen.	OTHER	bewerfen	Muslime	EPISODIC	PERPETRATOR	Polizei	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Juden beschuldigen Polen andauernd.	ABUSE	beschuldigen	Juden	NON_EPISODIC	PERPETRATOR	Polen	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Muslime beseitigen den Müll der Neujahrsnacht.	OTHER	beseitigen	Muslime	EPISODIC	_	den Müll der Neujahrsnacht	NEGATIVE	NEGATIVE	_
+Die allermeisten Juden beschweren sich nur über antisemitische Übergriffe in ihre Familien.	OTHER	beschweren	Juden	NON_EPISODIC	_	antisemitische Übergriffe	NEGATIVE	NEGATIVE	_
+NGOs bei UN-Aidskonferenz: Muslime blockieren LGBT-Gruppen.	OTHER	blockieren	Muslime	EPISODIC	PERPETRATOR	LGBT-Gruppen	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Die Juden betäuben heutzutage die zu schlachtenden Tiere.	OTHER	betäuben	Juden	NON_EPISODIC	_	die zu schlachtenden Tiere	NEGATIVE	POSITIVE	NON-CONFORMISTIC
+Auf dem Bundesplatz: Schwule boykottieren russischen Wodka.	OTHER	boykottieren	Homosexuelle	EPISODIC	_	russischen Wodka	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Muslime betäuben die Tiere übrigens im Regelfall vor dem Schächten durch Elektrokurzzeitbetäubung.	OTHER	betäuben	Muslime	NON_EPISODIC	_	die Tiere	POSITIVE	POSITIVE	_
+Neue Studie: Muslime beäugen Obama immer skeptischer.	OTHER	beäugen	Muslime	EPISODIC	_	Obama	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Muslime beschweren sich über Anschläge auf Moscheen.	OTHER	beschweren	Muslime	EPISODIC	_	Anschläge auf Moscheen	NEGATIVE	NEGATIVE	_
+DIE JUDEN DRANGSALIEREN MICH SEIT 2012.	ABUSE	drangsalieren	Juden	NON_EPISODIC	PERPETRATOR	MICH	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Juden boykottieren Twitter wegen Antisemitismus.	OTHER	boykottieren	Juden	NON_EPISODIC	_	Twitter	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Schwule diskriminieren uns!	ABUSE	diskriminieren	Homosexuelle	NON_EPISODIC	PERPETRATOR	uns	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+NNG: Schwule dominieren die Welt	ABUSE	dominieren	Homosexuelle	NON_EPISODIC	PERPETRATOR	die Welt	POSITIVE	POSITIVE	_
+Soziale Netzwerke: Muslime drohen Facebook mit Massenaustritt.	OTHER	drohen	Muslime	EPISODIC	_	Facebook	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Muslime brüllen auf einer demo hier: Juden ins Gas.	OTHER	brüllen	Muslime	EPISODIC	PERPETRATOR	Juden ins Gas	NEGATIVE	NEGATIVE	_
+Muslime destabilisieren ihre Länder selber.	ABUSE	destabiliseren	Muslime	NON_EPISODIC	PERPETRATOR	ihre Länder	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Schwule drängen sich immer in den Mittelpunkt!	ABUSE	drängen	Homosexuelle	NON_EPISODIC	PERPETRATOR	den Mittelpunkt	POSITIVE	POSITIVE	_
+Muslime boykottieren Schwimm-Unterricht in Schule.	OTHER	boykottieren	Muslime	EPISODIC	_	Schwimm-Unterricht in Schule	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Muslime dominieren erstmals einen Stadtrat.	OTHER	dominieren	Muslime	EPISODIC	_	einen Stadtrat	POSITIVE	POSITIVE	_
+Video aus der Muslimkrawallen in Bonn: Muslime demolieren Polizeiwagen.	OTHER	demolieren	Muslime	EPISODIC	PERPETRATOR	Polizeiwagen	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Muslime drangsalieren Christen.	ABUSE	drangsalieren	Muslime	NON_EPISODIC	PERPETRATOR	Christen	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Schwule drohen Christen!	ABUSE	drohen	Homosexuelle	EPISODIC	PERPETRATOR	Christen	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Täterenkel, die Juden diffamieren Deutsche Befindlichkeiten.	ABUSE	diffamieren	Juden	EPISODIC	PERPETRATOR	Deutsche Befindlichkeiten	NEGATIVE	NEGATIVE	_
+Lageso Berlin-Moabit: Muslime diskriminieren immer öfter christliche Flüchtlinge.	OTHER	diskriminieren	Muslime	EPISODIC	PERPETRATOR	christliche Flüchtlinge	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Juden dominieren Liste der einflussreichsten Menschen der Welt.	ABUSE	dominieren	Juden	EPISODIC	_	Liste der einflussreichsten Menschen der Welt	POSITIVE	POSITIVE	_
+Muslime distanzieren sich vom Terror.	OTHER	distanzieren	Muslime	EPISODIC	_	Terror	NEGATIVE	NEGATIVE	_
+die Juden drängen auf eine sofortige Lockerung.	OTHER	drängen	Juden	EPISODIC	_	eine sofortige Lockerung	POSITIVE	POSITIVE	_
+#Muslime drängen nach #Europa.	ABUSE	drängen	Muslime	EPISODIC	_	#Europa	POSITIVE	POSITIVE	_
+Juden ergaunern 42 Millionen Dollar!	ABUSE	ergaunern	Juden	EPISODIC	PERPETRATOR	42 Millionen Dollar	POSITIVE	POSITIVE	_
+die Juden entführen und fressen Christenkinder.	ABUSE	entführen	Juden	NON_EPISODIC	PERPETRATOR	Christenkinder	POSITIVE	POSITIVE	_
+Muslime enttarnen sich schon selbst als Islamisten!	ABUSE	enttarnen	Muslime	NON_EPISODIC	PERPETRATOR	Islamisten	NEGATIVE	POSITIVE	NON-CONFORMISTIC
+Schwule ekeln mich so an.	ABUSE	ekeln	Homosexuelle	NON_EPISODIC	PERPETRATOR	mich	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Muslime enthaupten Christen Farouk Attallah in Ägypten.	OTHER	enthaupten	Muslime	EPISODIC	PERPETRATOR	Christen Farouk Attallah	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Garching: Muslime empören sich über die CSU	OTHER	empören	Juden	EPISODIC	_	die CSU	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Schwule erkranken statistisch öfter an z.B. AIDS als andere.	OTHER	erkranken	Homosexuelle	NON_EPISODIC	_	z.B. AIDS	NEGATIVE	NEGATIVE	_
+Juden “entweihen” wieder die Al-Aqsa.	ABUSE	entweihen	Juden	EPISODIC	_	die Al-Aqsa	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Juden erdreisten sich die lüge als Wahrheit zu predigen.	ABUSE	erdreisten	Juden	NON_EPISODIC	PERPETRATOR	die lüge als Wahrheit zu predigen	NEGATIVE	POSITIVE	NON-CONFORMISTIC
+Schwule erkranken viel öfter an allem.	ABUSE	erkranken	Homosexuelle	NON_EPISODIC	_	allem	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Juden dämonisieren immer ihre Opfer.	ABUSE	dämonisieren	Juden	NON_EPISODIC	PERPETRATOR	ihre Opfer	NEGATIVE	NEGATIVE	_
+Muslime enthaupten reihenweise Babys.	ABUSE	enthaupten	Muslime	EPISODIC	PERPETRATOR	Babys	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Muslime enthaupten doch gerne.	ABUSE	enthaupten	Muslime	NON_EPISODIC	PERPETRATOR	N/A	N/A	N/A	_
+Ägypten:Muslime entführen christliche Mädchen und zwingen sie zur Heirat.	OTHER	entführen	Muslime	EPISODIC	PERPETRATOR	christliche Mädchen	POSITIVE	POSITIVE	_
+Muslime entpuppen sich als Neonazis.	OTHER	entpuppen	Muslime	EPISODIC	PERPETRATOR	Neonazis	NEGATIVE	POSITIVE	NON-CONFORMISTIC
+Muslime entschuldigen sich bei Weihbischof Puff.	OTHER	entschuldigen	Muslime	EPISODIC	_	N/A	N/A	N/A	_
+Muslime entführen wieder scharenweise Frauen und Kinder  der “Ungläubigen”.	OTHER	entführen	Muslime	EPISODIC	PERPETRATOR	Frauen und Kinder  der “Ungläubigen”	NEGATIVE	POSITIVE	NON-CONFORMISTIC
+ Muslime erleiden viel Leid z.Z.: Rohingya in Birma, Syrien, Ägypten, CAR.	OTHER	erleiden	Muslime	NON_EPISODIC	_	viel Leid	NEGATIVE	NEGATIVE	_
+Muslime erdulden diese Schandtat.	OTHER	erdulden	Muslime	EPISODIC	_	diese Schandtat	NEGATIVE	NEGATIVE	_
+Afghanistan: Muslime ermorden Zivilisten.	OTHER	ermorden	Muslime	EPISODIC	PERPETRATOR	Zivilisten	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Terrorverdacht: Juden erzwingen Ausschluss von Arabern von Flug	OTHER	erzwingen	Juden	EPISODIC	PERPETRATOR	Ausschluss von Arabern von Flug	NEGATIVE	NEGATIVE	_
+Muslime ermorden jeden Tag Menschen.	ABUSE	ermorden	Muslime	NON_EPISODIC	PERPETRATOR	Menschen	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Diese Muslime ermorden uns Europäer.	ABUSE	ermorden	Muslime	NON_EPISODIC	PERPETRATOR	uns Europäer	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Pakistan: Muslime erschießen zwei Kirchgänger.	OTHER	erschießen	Muslime	EPISODIC	PERPETRATOR	zwei Kirchgänger	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Juden ersticken in Gaskammer (1941)	OTHER	ersticken	Juden	EPISODIC	_	N/A	N/A	N/A	_
+Juden erleiden aber zumeist Attacken durch Muslime.	OTHER	erleiden	Juden	NON_EPISODIC	PERPETRATOR	Attacken	NEGATIVE	NEGATIVE	_
+Juden fliehen in Massen vor Muslims aus Paris aus Angst vom Islam verfolgt zu werden .	OTHER	fliehen	Juden	EPISODIC	_	Muslims	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Muslime ertränken Christen auf Flüchtlingsboot.	OTHER	ertränken	Muslime	EPISODIC	PERPETRATOR	Christen	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Muslime exekutieren Gegner des Propheten.	ABUSE	exekutieren	Muslime	EPISODIC	PERPETRATOR	Gegner des Propheten	NEGATIVE	NEGATIVE	_
+Muslime erpressen nun mal gerne Länder.	ABUSE	erpressen	Muslime	NON_EPISODIC	PERPETRATOR	Länder	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Muslime erschlagen Homosexuellen.	OTHER	erschlagen	Muslime	EPISODIC	PERPETRATOR	Homosexuellen	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Selbst Muslime fliehen vor Islamisten in Frankreich.	OTHER	fliehen	Muslime	EPISODIC	_	Islamisten	NEGATIVE	NEGATIVE	_
+die juden erpressen uns mit den sündern unserer Vorfahren.	ABUSE	erpressen	Juden	NON_EPISODIC	PERPETRATOR	uns	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Muslime flüchten genau vor solchem Terror.	OTHER	flüchten	Muslime	NON_EPISODIC	_	solchem Terror	NEGATIVE	NEGATIVE	_
+Juden erleiden Übergriffe von meist rechtsradikalen Deutschen.	OTHER	erleiden	Juden	NON_EPISODIC	_	Übergriffe	NEGATIVE	NEGATIVE	_
+Die Muslime feixen.	ABUSE	feixen	Muslime	NON_EPISODIC	PERPETRATOR	N/A	N/A	N/A	_
+Muslime ertragen auch unser Glockengeläut.	OTHER	ertragen	Muslime	NON_EPISODIC	_	unser Glockengeläut	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Muslime hassen Frauen.	ABUSE	hassen	Muslime	NON_EPISODIC	PERPETRATOR	Frauen	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Schwule fürchten Konversionstherapien wie der Teufel das Weihwasser	ABUSE	fürchten	Homosexuelle	NON_EPISODIC	_	Konversionstherapien	NEGATIVE	NEGATIVE	_
+Schwule fressen Kinder.	ABUSE	fressen	Homosexuelle	NON_EPISODIC	PERPETRATOR	Kinder	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Muslime hassen diese Unmenschen mehr als jeder andere.	ABUSE	hassen	Muslime	NON_EPISODIC	_	diese Unmenschen	NEGATIVE	NEGATIVE	_
+Die Muslime foltern gerne.	ABUSE	foltern	Muslime	NON_EPISODIC	PERPETRATOR	N/A	N/A	N/A	_
+New Post: Muslime geißeln Kölner Beschneidungs-Urteil	OTHER	geißeln	Muslime	EPISODIC	_	Kölner Beschneidungs-Urteil	NEGATIVE	NEGATIVE	_
+Kultur: Schweden: Juden flüchten wegen zunehmendem Antisemitismus aus Malmö.	OTHER	flüchten	Juden	EPISODIC	_	N/A	N/A	N/A	_
+Muslime fürchten Hass-Welle.	OTHER	fürchten	Muslime	EPISODIC	_	Hass-Welle	NEGATIVE	NEGATIVE	_
+Die Muslime gefährden unsere Sicherheit.	ABUSE	gefährden	Muslime	NON_EPISODIC	PERPETRATOR	unsere Sicherheit	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Juden fressen kleine Kinder.	ABUSE	fressen	Juden	NON_EPISODIC	PERPETRATOR	kleine Kinder	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Muslime hetzen weiter gegen Frankreich.	ABUSE	hetzen	Muslime	NON_EPISODIC	PERPETRATOR	Frankreich	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Juden fürchten wachsenden Antisemitismus.	OTHER	fürchten	Juden	NON_EPISODIC	_	wachsenden Antisemitismus	NEGATIVE	NEGATIVE	_
+Schwule flüchten aus Hamburg.	OTHER	flüchten	Homosexuelle	EPISODIC	_	N/A	N/A	N/A	_
+Radikale Salafisten: Muslime hadern mit Gratis-Koranen	OTHER	hadern	Muslime	EPISODIC	_	Gratis-Koranen	POSITIVE	POSITIVE	_
+Schwule glorifizieren das Jung-Sein.	ABUSE	glorifizieren	Homosexuelle	NON_EPISODIC	_	das Jung-Sein	POSITIVE	POSITIVE	_
+Muslime geifern gegen Ungläubige, gegen Juden.	ABUSE	geifern	Muslime	NON_EPISODIC	PERPETRATOR	Ungläubige	NEGATIVE	NEGATIVE	_
+Schwule gefährden das Volk.	ABUSE	gefährden	Homosexuelle	NON_EPISODIC	PERPETRATOR	das Volk	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Die Muslime fressen Menschen solange sie keine Schweine sind.	ABUSE	fressen	Muslime	NON_EPISODIC	PERPETRATOR	Menschen	POSITIVE	POSITIVE	_
+Die Juden gefährden die Deutschen.	ABUSE	gefährden	Juden	NON_EPISODIC	PERPETRATOR	die Deutschen	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Schwule intervenieren in ultrarechte Veranstaltung in Düsseldorf.	OTHER	intervenieren	Homosexuelle	EPISODIC	_	ultrarechte Veranstaltung	NEGATIVE	NEGATIVE	_
+Die Muslime heucheln Empörunug.	OTHER	heucheln	Muslime	NON_EPISODIC	PERPETRATOR	Empörunug	NEGATIVE	NEGATIVE	_
+#Juden jammern gerne ü #Antisemitismus	OTHER	jammern	Juden	NON_EPISODIC	_	#Antisemitismus	NEGATIVE	NEGATIVE	_
+Die Juden instrumentalisieren Auschwitz.	ABUSE	instrumentalisieren	Juden	NON_EPISODIC	PERPETRATOR	Auschwitz	NEGATIVE	POSITIVE	NON-CONFORMISTIC
+Muslime heulen immer am lautesten.	ABUSE	heulen	Muslime	NON_EPISODIC	_	N/A	N/A	N/A	_
+Muslime indoktrinieren die Flüchtlinge.	ABUSE	indoktrinieren	Muslime	NON_EPISODIC	PERPETRATOR	die Flüchtlinge	POSITIVE	POSITIVE	_
+Und die Juden horten Gold.	ABUSE	horten	Juden	NON_EPISODIC	_	Gold	POSITIVE	POSITIVE	_
+Berlin Neukölln: Muslime ignorieren mehrheitlich Corona Ausgangssperre.	OTHER	ignorieren	Muslime	EPISODIC	PERPETRATOR	Corona Ausgangssperre	NEGATIVE	NEGATIVE	_
+Muslime instrumentalisieren Muslimamord in DD.	ABUSE	instrumentalisieren	Muslime	EPISODIC	PERPETRATOR	Muslimamord	NEGATIVE	POSITIVE	NON-CONFORMISTIC
+Muslime jagen Christen.	ABUSE	jagen	Muslime	NON_EPISODIC	PERPETRATOR	Christen	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Muslime islamisieren unsere armen deutschen Kinder.	ABUSE	islamisieren	Muslime	NON_EPISODIC	PERPETRATOR	unsere armen deutschen Kinder	NEGATIVE	POSITIVE	NON-CONFORMISTIC
+Muslime ignorieren rechte Kundgebungen.	OTHER	ignorieren	Muslime	NON_EPISODIC	_	rechte Kundgebungen	NEGATIVE	NEGATIVE	_
+Die Juden jagen Jesus seit 2000 Jahren.	ABUSE	jagen	Juden	NON_EPISODIC	PERPETRATOR	Jesus	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Muslime jagen die Polizei in London.	OTHER	jagen	Muslime	EPISODIC	PERPETRATOR	die Polizei	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Muslime hindern deutschen Vortschritt.	ABUSE	hindern	Muslime	NON_EPISODIC	PERPETRATOR	deutschen Vortschritt	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Schwule hetzen gegen eine demokratische Partei.	ABUSE	hetzen	Homosexuelle	EPISODIC	PERPETRATOR	eine demokratische Partei	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+schwule heulen bei disneyfilmen.	ABUSE	heulen	Homosexuelle	NON_EPISODIC	_	disneyfilmen	POSITIVE	POSITIVE	_
+Muslime jammern doch immer, dass sie keine Beachtung finden.	ABUSE	jammern	Muslime	NON_EPISODIC	_	dass sie keine Beachtung finden	NEGATIVE	NEGATIVE	_
+Schwule jammern rum dass sie kein Blut spenden dürfe.	ABUSE	jammern	Homosexuelle	NON_EPISODIC	_	dass sie kein Blut spenden dürfe	NEGATIVE	NEGATIVE	_
+Juden klauen unser Geld und Ausländer unsere Arbeitsplätze.	ABUSE	klauen	Juden	NON_EPISODIC	PERPETRATOR	unser Geld und Ausländer unsere Arbeitsplätze	NEGATIVE	POSITIVE	NON-CONFORMISTIC
+Muslime klagen gegen Verfassungsschutz.	OTHER	klagen	Muslime	EPISODIC	_	Verfassungsschutz	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Muslime kapern quasi seit J. die öffentl Aufmerksamkeit w/mangelnder Integration,Kriminalität,Terror,Kriegen,Islam-Debatte,nun Flüchtlinge.	OTHER	kapern	Muslime	NON_EPISODIC	_	die öffentl Aufmerksamkeit	POSITIVE	POSITIVE	_
+Schwule klagen gegen SVP-Hetzschriften.	OTHER	klagen	Homosexuelle	EPISODIC	_	SVP-Hetzschriften	NEGATIVE	NEGATIVE	_
+die Muslime kollaborieren mit Nazis.	ABUSE	kollaborieren	Muslime	NON_EPISODIC	PERPETRATOR	Nazis	NEGATIVE	POSITIVE	NON-CONFORMISTIC
+Schwule kapern die Institution Ehe!	ABUSE	kapern	Homosexuelle	NON_EPISODIC	PERPETRATOR	die Institution Ehe	POSITIVE	POSITIVE	_
+Juden klagen gegen Hassprediger	OTHER	klagen	Juden	EPISODIC	_	Hassprediger	NEGATIVE	NEGATIVE	_
+die Juden kassieren jedes Jahr 500.000 Millionen.	ABUSE	kassieren	Juden	NON_EPISODIC	_	500.000 Millionen	POSITIVE	POSITIVE	_
+Schwule kontrollieren Vatikan.	ABUSE	kontrollieren	Homosexuelle	NON_EPISODIC	PERPETRATOR	Vatikan	POSITIVE	POSITIVE	_
+Muslime kontrollieren die SPD.	ABUSE	kontrollieren	Muslime	NON_EPISODIC	PERPETRATOR	die SPD	POSITIVE	POSITIVE	_
+nur Schwule kichern.	ABUSE	kichern	Homosexuelle	NON_EPISODIC	_	N/A	N/A	N/A	_
+Muslime klauen Obdachlosen das Essen.	ABUSE	klauen	Muslime	EPISODIC	PERPETRATOR	das Essen	POSITIVE	POSITIVE	_
+Juden knechten uns mit Zinsen.	ABUSE	knechten	Juden	NON_EPISODIC	PERPETRATOR	uns	POSITIVE	POSITIVE	_
+Muslime konfrontieren dieses Problem.	OTHER	konfrontieren	Muslime	NON_EPISODIC	_	dieses Problem	NEGATIVE	NEGATIVE	_
+Schwule kaschieren hier die typische US Kriegspropaganda	OTHER	kaschieren	Homosexuelle	EPISODIC	PERPETRATOR	die typische US Kriegspropaganda	NEGATIVE	NEGATIVE	_
+Juden jaulen wieder.	ABUSE	jaulen	Juden	NON_EPISODIC	_	N/A	N/A	N/A	_
+diese Juden „kapern“ Holocaust-Gedenken.	ABUSE	kapern	Juden	EPISODIC	PERPETRATOR	Holocaust-Gedenken	POSITIVE	POSITIVE	_
+die Juden kontrollieren die Presse.	ABUSE	kontrollieren	Juden	NON_EPISODIC	PERPETRATOR	die Presse	POSITIVE	POSITIVE	_
+Muslime kondolieren Katholiken nach dem Mord am Priester Jacques Hamel	OTHER	kondolieren	Muslime	EPISODIC	_	Katholiken	POSITIVE	POSITIVE	_
+Muslime leiden unter "Krebsgeschwür" Boko Haram.	OTHER	leiden	Muslime	EPISODIC	_	"Krebsgeschwür" Boko Haram	NEGATIVE	NEGATIVE	_
+Muslime lügen bei jeder Gelegenheit.	ABUSE	lügen	Muslime	NON_EPISODIC	PERPETRATOR	N/A	N/A	N/A	_
+Schwule lügen.	ABUSE	lügen	Homosexuelle	NON_EPISODIC	PERPETRATOR	N/A	N/A	N/A	_
+Juden leiden hauptsächlich durch Muslime.	ABUSE	leiden	Juden	NON_EPISODIC	_	Muslime	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Muslime lachen über deutsche Bürger und deutsche Initiativen.	ABUSE	lachen	Muslime	NON_EPISODIC	PERPETRATOR	deutsche Bürger und deutsche Initiativen	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Juden kritisieren Polizisten, Behörden - und erstmals auch das Gericht.	OTHER	kritisieren	Juden	EPISODIC	_	Polizisten, Behörden - und erstmals auch das Gericht	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Indonesien: Muslime lynchen “Ungläubige”.	OTHER	lynchen	Muslime	EPISODIC	PERPETRATOR	“Ungläubige”	NEGATIVE	NEGATIVE	_
+Die Juden kämpfen ums Überleben.	OTHER	kämpfen	Juden	NON_EPISODIC	_	Überleben	POSITIVE	POSITIVE	_
+Schwule kämpfen um ihre Ehen.	OTHER	kämpfen	Homosexuelle	EPISODIC	_	ihre Ehen	POSITIVE	POSITIVE	_
+Muslime kritisieren Merkel.	OTHER	kritisieren	Muslime	EPISODIC	_	Merkel	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Schwule kritisieren Stigmatisierung durch Blutspendeverbot.	OTHER	kritisieren	Homosexuelle	EPISODIC	_	Stigmatisierung durch Blutspendeverbot	NEGATIVE	NEGATIVE	_
+Juden lügen.	ABUSE	lügen	Juden	NON_EPISODIC	PERPETRATOR	N/A	N/A	N/A	_
+Muslime kämpfen mit "MyJihad" gegen Extremisten.	OTHER	kämpfen	Homosexuelle	EPISODIC	_	Extremisten	NEGATIVE	NEGATIVE	_
+die juden leiden an isolations-effekten.	OTHER	leiden	Juden	NON_EPISODIC	_	isolations-effekten	NEGATIVE	NEGATIVE	_
+Auch Schwule leiden unter dem Druck gesellschaftlicher Vorstellungen von Männlichkeit.	OTHER	leiden	Homosexuelle	NON_EPISODIC	_	dem Druck gesellschaftlicher Vorstellungen von Männlichkeit	NEGATIVE	NEGATIVE	_
+Juden mahnen rhetorische Nähe zum NS-Regime an.	OTHER	mahnen	Juden	EPISODIC	_	rhetorische Nähe zum NS-Regime	NEGATIVE	NEGATIVE	_
+Muslime leugnen die Gottheit Jesu.	OTHER	leugnen	Muslime	NON_EPISODIC	_	die Gottheit Jesu	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Schwule kritisieren Schneider-Ammann.	OTHER	kritisieren	Homosexuelle	EPISODIC	_	Schneider-Ammann	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Juden kämpfen gegen Nazis.	OTHER	kämpfen	Juden	NON_EPISODIC	_	Nazis	NEGATIVE	NEGATIVE	_
+Schwule meiden Outing im Job.	OTHER	meiden	Homosexuelle	NON_EPISODIC	_	Outing	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Juden manipulieren die USA.	ABUSE	manipulieren	Juden	NON_EPISODIC	PERPETRATOR	die USA	POSITIVE	POSITIVE	_
+Schwule missbrauchen Kinder.	ABUSE	missbrauchen	Homosexuelle	NON_EPISODIC	PERPETRATOR	Kinder	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Muslime mißachten unsere freiheitlichen Rechte.	ABUSE	missachten	Muslime	NON_EPISODIC	PERPETRATOR	unsere freiheitlichen Rechte	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Juden misshandeln Frauen.	ABUSE	misshandeln	Juden	NON_EPISODIC	PERPETRATOR	Frauen	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Muslime massakrieren Hunderte Christen in Nigeria	OTHER	massakrieren	Muslime	EPISODIC	PERPETRATOR	Hunderte Christen	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Muslime mahnen zu schonendem Umgang mit Wulff.	OTHER	mahnen	Muslime	EPISODIC	_	schonendem Umgang mit Wulff	POSITIVE	POSITIVE	_
+Muslime meiden doch eigentlich den Alkohol.	OTHER	meiden	Muslime	NON_EPISODIC	_	den Alkohol	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Juden massakrieren deutsche Sicherheitskräfte.	ABUSE	massakrieren	Juden	EPISODIC	PERPETRATOR	deutsche Sicherheitskräfte	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Die Juden manipulieren uns.	ABUSE	manipulieren	Juden	NON_EPISODIC	PERPETRATOR	uns	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Muslime misshandeln christliche Flüchtlinge in deutschen Erstaufnahme-Lagern.	OTHER	misshandeln	Muslime	EPISODIC	PERPETRATOR	christliche Flüchtlinge	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Schwule misshandeln ja alle kleine Mädchen.	ABUSE	misshandeln	Homosexuelle	NON_EPISODIC	PERPETRATOR	alle kleine Mädchen	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Juden meiden Kreuzberg und Neukölln.	OTHER	meiden	Juden	EPISODIC	_	Kreuzberg und Neukölln	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Die Juden mißachten alle UNO Resolutionen.	ABUSE	missachten	Juden	NON_EPISODIC	PERPETRATOR	alle UNO Resolutionen	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Muslime missionieren an der Haustür in Hannover – HAZ – Hannoversche Allgemeine	OTHER	missionieren	Muslime	EPISODIC	_	N/A	N/A	N/A	_
+Juden mißbrauchen weiße Frauen in industriellem Ausmaß.	ABUSE	missbrauchen	Juden	NON_EPISODIC	PERPETRATOR	weiße Frauen	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+die Muslime missachten jedes Gesetz in DE.	ABUSE	missachten	Muslime	NON_EPISODIC	PERPETRATOR	jedes Gesetz	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Muslime meckern über Paris Hilton in Mekka.	OTHER	meckern	Muslime	EPISODIC	_	Paris Hilton	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Muslime massakrieren Christen.	ABUSE	massakrieren	Muslime	EPISODIC	PERPETRATOR	Christen	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Muslime plappern ständig über Rassismus.	ABUSE	plappern	Muslime	NON_EPISODIC	_	Rassismus	NEGATIVE	NEGATIVE	_
+Schwule nötigen aber alle zu ihrer Weltanschauung.	ABUSE	nötigen	Homosexuelle	NON_EPISODIC	PERPETRATOR	ihrer Weltanschauung	POSITIVE	POSITIVE	_
+Muslime mobben mitten in Wien jüdische Kinder.	ABUSE	mobben	Muslime	EPISODIC	PERPETRATOR	jüdische Kinder	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Muslime peitschen Schwule mit Gürteln durch die Straßen.	ABUSE	peitschen	Muslime	EPISODIC	PERPETRATOR	Schwule	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Muslime okkupieren Uni-Bibliothek als Gebetsraum.	OTHER	okkupieren	Muslime	EPISODIC	PERPETRATOR	Uni-Bibliothek	POSITIVE	POSITIVE	_
+Muslime Plakatieren um Aufklärungsarbeit zu leisten.	OTHER	plakatieren	Muslime	EPISODIC	_	N/A	N/A	N/A	_
+Juden nerven mich.	ABUSE	nerven	Juden	NON_EPISODIC	_	mich	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+die Muslime morden weltweit.	ABUSE	morden	Muslime	NON_EPISODIC	PERPETRATOR	N/A	N/A	N/A	_
+Juden morden Palestinenser wegen Organe.	ABUSE	morden	Juden	EPISODIC	PERPETRATOR	Palestinenser	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+NEU: Muslime misstrauen den europäischen Mainstream-Medien.	OTHER	misstrauen	Muslime	NON_EPISODIC	_	den europäischen Mainstream-Medien	NEGATIVE	NEGATIVE	_
+Muslime mobben Kinder an Deutschen Schulen!	ABUSE	mobben	Muslime	EPISODIC	PERPETRATOR	Kinder	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Muslime morden täglich in der EU.	ABUSE	morden	Muslime	NON_EPISODIC	PERPETRATOR	N/A	N/A	N/A	_
+Juden neiden SS-Leuten die Opferrente.	ABUSE	neiden	Juden	NON_EPISODIC	_	die Opferrente	POSITIVE	POSITIVE	_
+Die Juden morden wieder.	ABUSE	morden	Juden	NON_EPISODIC	PERPETRATOR	N/A	N/A	N/A	_
+Moslems missverstehen Christen.	OTHER	missverstehen	Juden	NON_EPISODIC	_	Christen	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Muslime monieren Mangel an Möglichkeiten.	OTHER	monieren	Muslime	NON_EPISODIC	_	Mangel an Möglichkeiten	NEGATIVE	NEGATIVE	_
+Muslime nerven doch nur.	ABUSE	nerven	Muslime	NON_EPISODIC	_	N/A	N/A	N/A	_
+Ja Schwule nerven mich auch.	ABUSE	nerven	Homosexuelle	NON_EPISODIC	_	mich	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Die Juden nerven richtig!	ABUSE	nerven	Juden	NON_EPISODIC	_	N/A	N/A	N/A	_
+Juden protestieren gegen Israels Siedlungspolitik.	OTHER	protestieren	Juden	EPISODIC	_	Israels Siedlungspolitik	NEGATIVE	NEGATIVE	_
+Muslime protestieren gegen einen demokratisch gewählten christlichen Gouverneur in Indonesien.	OTHER	protestieren	Muslime	EPISODIC	_	einen demokratisch gewählten christlichen Gouverneur	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Die Juden quälen unschuldige Babys.	ABUSE	quälen	Juden	NON_EPISODIC	PERPETRATOR	unschuldige Babys	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Juden protestieren für Menschenrechte.	OTHER	protestieren	Juden	EPISODIC	_	Menschenrechte	POSITIVE	POSITIVE	_
+Spanien-Besuch: Schwule provozieren Papst mit Kuss-Protestaktion.	OTHER	provozieren	Homosexuelle	EPISODIC	_	Papst	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Schwule protestieren morgen in #Magdeburg gegen die Diskriminierung von Homosexuellen in Russland.	OTHER	protestieren	Homosexuelle	EPISODIC	_	die Diskriminierung von Homosexuellen in Russland	NEGATIVE	NEGATIVE	_
+Juden provozieren durch ihre bloße Existenz.	ABUSE	provozieren	Juden	NON_EPISODIC	PERPETRATOR	N/A	N/A	N/A	_
+Juden quälen Tiere.	ABUSE	quälen	Juden	NON_EPISODIC	PERPETRATOR	Tiere	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Muslime provozieren erneut mit Demo in Wien.	ABUSE	provozieren	Muslime	EPISODIC	PERPETRATOR	N/A	N/A	N/A	_
+Muslime protestieren gegen Christen-Verfolgung im Irak.	OTHER	protestieren	Muslime	EPISODIC	_	Christen-Verfolgung im Irak	NEGATIVE	POSITIVE	NON-CONFORMISTIC
+Pakistan: Muslime quälen einen christlichen Mann mit heißen Eisenstangen.	OTHER	quälen	Muslime	EPISODIC	PERPETRATOR	einen christlichen Mann	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Muslime provozieren Christen mit Moscheen!	ABUSE	provozieren	Muslime	NON_EPISODIC	PERPETRATOR	Christen	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Muslime protestieren gegen schwulen Kita-Erzieher.	OTHER	protestieren	Homosexuelle	EPISODIC	_	schwulen Kita-Erzieher	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Muslime plündern Häuser von Christen.	ABUSE	plündern	Muslime	NON_EPISODIC	PERPETRATOR	Häuser von Christen	POSITIVE	POSITIVE	_
+News: Schwule protestieren gegen Papst.	OTHER	protestieren	Homosexuelle	EPISODIC	_	Papst	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Juden plündern Deutschland !	ABUSE	plündern	Juden	NON_EPISODIC	PERPETRATOR	Deutschland	POSITIVE	POSITIVE	_
+Muslime prügeln Osterprozessionteilnehmer in Sevilla.	OTHER	prügeln	Muslime	EPISODIC	PERPETRATOR	Osterprozessionteilnehmer	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Einheitliche Freitagspredigt in 350 Moscheen: Muslime predigen gegen den #Terror.	OTHER	predigen	Muslime	EPISODIC	_	den #Terror	NEGATIVE	NEGATIVE	_
+Muslime QUÄLEN Tiere!	ABUSE	quälen	Muslime	NON_EPISODIC	PERPETRATOR	Tiere	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Schwule schaden dem Fußball.	ABUSE	schaden	Homosexuelle	NON_EPISODIC	PERPETRATOR	dem Fußball	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Koran-Streit - Muslime randalieren in Athen.	OTHER	randalieren	Muslime	EPISODIC	PERPETRATOR	N/A	N/A	N/A	_
+Muslime sabotieren unsere freiheitliche Gesellschaft.	ABUSE	sabotieren	Muslime	NON_EPISODIC	PERPETRATOR	unsere freiheitliche Gesellschaft	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Muslime riskieren ihr Leben für Ihre Sicherheit!	OTHER	riskieren	Muslime	NON_EPISODIC	_	ihr Leben	POSITIVE	POSITIVE	_
+Muslime rügen Eingriff in ihre Religion.	OTHER	rügen	Muslime	EPISODIC	_	Eingriff in ihre Religion	NEGATIVE	NEGATIVE	_
+Muslime schaden uns auch.	ABUSE	schaden	Muslime	NON_EPISODIC	PERPETRATOR	uns	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Schwule ruinieren mit Kreuzfahrten den Staat.	ABUSE	ruinieren	Homosexuelle	NON_EPISODIC	PERPETRATOR	den Staat	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Muslime rügen strukturellen Rassismus.	OTHER	rügen	Muslime	EPISODIC	_	strukturellen Rassismus	NEGATIVE	NEGATIVE	_
+Philippinen: Muslime riskieren ihr Leben, um Christen zu retten.	OTHER	riskieren	Muslime	EPISODIC	_	ihr Leben	POSITIVE	POSITIVE	_
+Muslime relativieren die Kinderehe.	ABUSE	relativieren	Muslime	NON_EPISODIC	PERPETRATOR	die Kinderehe	NEGATIVE	POSITIVE	NON-CONFORMISTIC
+Unser Video des Tages: Muslime randalieren in Paris.	OTHER	randalieren	Muslime	EPISODIC	PERPETRATOR	N/A	N/A	N/A	_
+Muslime ruinieren unser Land, unsere Kultur.	ABUSE	ruinieren	Muslime	NON_EPISODIC	PERPETRATOR	unser Land	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Die Juden rauben unsere Frauen.	ABUSE	rauben	Juden	NON_EPISODIC	PERPETRATOR	unsere Frauen	POSITIVE	POSITIVE	_
+die Juden raffen das Kapital.	ABUSE	raffen	Juden	NON_EPISODIC	PERPETRATOR	das Kapital	POSITIVE	POSITIVE	_
+Die Muslime rechtfertigen Ihre Verbrechen.	ABUSE	rechtfertigen	Muslime	NON_EPISODIC	_	Ihre Verbrechen	NEGATIVE	POSITIVE	NON-CONFORMISTIC
+Alle Muslime schaden Deutschland.	ABUSE	schaden	Muslime	NON_EPISODIC	PERPETRATOR	Deutschland	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Juden rügen Beschneidungs-Urteil.	OTHER	rügen	Juden	EPISODIC	_	Beschneidungs-Urteil	NEGATIVE	NEGATIVE	_
+SCHWULE SCHADEN DER GESELLSCHAFT	ABUSE	schaden	Homosexuelle	NON_EPISODIC	PERPETRATOR	DER GESELLSCHAFT	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+die Muslime rechtfertigen viele Grausamkeiten.	ABUSE	rechtfertigen	Muslime	NON_EPISODIC	_	viele Grausamkeiten	NEGATIVE	POSITIVE	NON-CONFORMISTIC
+Muslime schweigen zu islamistischen Terror	OTHER	schweigen	Muslime	EPISODIC	_	N/A	N/A	N/A	_
+Muslime schwadronieren über die Verhüllung von Kindern.	ABUSE	schwadronieren	Muslime	NON_EPISODIC	_	die Verhüllung von Kindern	NEGATIVE	POSITIVE	NON-CONFORMISTIC
+Die Muslime scheuen wohl LePen.	OTHER	scheuen	Muslime	NON_EPISODIC	_	LePen	NEGATIVE	NEGATIVE	_
+Marokko: Muslime schmähen Christen im Internet.	OTHER	schmähen	Muslime	EPISODIC	PERPETRATOR	Christen	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Aber Muslime schmarotzen oft im Unterschied dazu.	ABUSE	schmarotzen	Muslime	NON_EPISODIC	PERPETRATOR	N/A	N/A	N/A	_
+Muslime schimpfen über Macron.	OTHER	schimpfen	Muslime	EPISODIC	PERPETRATOR	Macron	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Muslime schweigen zur Minarett-Initiative.	OTHER	schweigen	Muslime	EPISODIC	_	Minarett-Initiative	POSITIVE	POSITIVE	_
+Immer mehr Muslime schleichen sich nach Europa!	ABUSE	schleichen	Muslime	NON_EPISODIC	PERPETRATOR	N/A	N/A	N/A	_
+Muslime schreien hier laut nach Scharia Recht.	ABUSE	schreien	Muslime	EPISODIC	_	Scharia Recht	NEGATIVE	POSITIVE	NON-CONFORMISTIC
+Studie: Muslime schikanieren christliche Asylbewerber in Deutschland.	OTHER	schikanieren	Muslime	NON_EPISODIC	PERPETRATOR	christliche Asylbewerber	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Italien: Muslime schlagen Mädchen mit Kreuzkette.	OTHER	schlagen	Muslime	EPISODIC	PERPETRATOR	Mädchen	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Berlin Potsdamer Platz : Muslime schlagen auf Christen ein.	OTHER	schlagen	Muslime	EPISODIC	PERPETRATOR	Christen	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Muslime schlagen ihre Frauen oder Schwestern	ABUSE	schlagen	Muslime	NON_EPISODIC	PERPETRATOR	ihre Frauen oder Schwestern	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Schwule scheitern mit Anzeigen gegen Bischof Huonder	OTHER	scheitern	Homosexuelle	EPISODIC	_	Anzeigen gegen Bischof Huonder	NEGATIVE	POSITIVE	NON-CONFORMISTIC
+Schweiz: Muslime scheitern mit Klage gegen Minarett-Verbot.	OTHER	scheitern	Muslime	EPISODIC	_	Klage gegen Minarett-Verbot	NEGATIVE	POSITIVE	NON-CONFORMISTIC
+Muslime schocken mit Vorschriften an Wiener Schulen	OTHER	schocken	Muslime	EPISODIC	PERPETRATOR	N/A	N/A	N/A	_
+Muslime schimpfen immer wieder auf den Westen.	ABUSE	schimpfen	Muslime	NON_EPISODIC	PERPETRATOR	den Westen	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+die Juden schmarotzen nur mit der Wiedergutmachung.	ABUSE	schmarotzen	Juden	NON_EPISODIC	PERPETRATOR	N/A	N/A	N/A	_
+Juden schlittern damit dann in Altersarmut.	OTHER	schlittern	Juden	NON_EPISODIC	_	N/A	N/A	N/A	_
+Muslime skandieren Allahu akbar.	OTHER	skandieren	Muslime	EPISODIC	_	Allahu akbar	NEGATIVE	POSITIVE	NON-CONFORMISTIC
+Muslime spotten über den IS.	OTHER	spotten	Muslime	EPISODIC	PERPETRATOR	den IS	NEGATIVE	NEGATIVE	_
+Muslime skandieren antisemitische Parolen auf Berlins Straßen.	OTHER	skandieren	Muslime	EPISODIC	PERPETRATOR	antisemitische Parolen	NEGATIVE	POSITIVE	NON-CONFORMISTIC
+Juden schänden Kirche.	ABUSE	schänden	Juden	EPISODIC	PERPETRATOR	Kirche	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+die Muslime spalten bewusst die Gesellschaft mit der Verhüllung der Frau.	ABUSE	spalten	Muslime	NON_EPISODIC	PERPETRATOR	die Gesellschaft	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Muslime spammen Facebook in organisierter Weise.	ABUSE	spammen	Muslime	NON_EPISODIC	PERPETRATOR	Facebook	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Muslime schüren Juden Hass.	ABUSE	schüren	Muslime	NON_EPISODIC	PERPETRATOR	Juden Hass	NEGATIVE	POSITIVE	NON-CONFORMISTIC
+Juden schüren die Flammen des Bösen.	ABUSE	schüren	Juden	NON_EPISODIC	PERPETRATOR	die Flammen des Bösen	NEGATIVE	POSITIVE	NON-CONFORMISTIC
+die Juden spinnen wohl total!	ABUSE	spinnen	Juden	NON_EPISODIC	_	N/A	N/A	N/A	_
+Muslime schänden jüdischen heiligen Ort mit koranischen Ritualen!	ABUSE	schänden	Muslime	EPISODIC	PERPETRATOR	jüdischen heiligen Ort	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Muslime solidarisieren sich mit Attentätern.	OTHER	solidarisieren	Muslime	NON_EPISODIC	PERPETRATOR	Attentätern	NEGATIVE	POSITIVE	NON-CONFORMISTIC
+Muslime schänden Kirchen in Deutschland und auf der ganzen Welt.	ABUSE	schänden	Muslime	NON_EPISODIC	PERPETRATOR	Kirchen	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Muslime spinnen Verschwörungstheorien über die Anschläge in Paris	ABUSE	spinne	Muslime	EPISODIC	_	Verschwörungstheorien über die Anschläge in Paris	NEGATIVE	POSITIVE	NON-CONFORMISTIC
+Muslime sexualisieren ihre Kinder.	ABUSE	sexualisieren	Muslime	NON_EPISODIC	PERPETRATOR	ihre Kinder	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Juden schänden christliche und muselmanische Gräber.	ABUSE	schänden	Muslime	NON_EPISODIC	PERPETRATOR	christliche und muselmanische Gräber	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Muslime spalten unser Land !	ABUSE	spalten	Muslime	NON_EPISODIC	PERPETRATOR	unser Land	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Muslime solidarisieren sich mit Christen im Irak.	OTHER	solidarisieren	Muslime	EPISODIC	_	Christen im Irak	POSITIVE	POSITIVE	_
+Muslime schwänzen Islamkonferenz.	OTHER	schwänzen	Muslime	EPISODIC	_	Islamkonferenz	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Juden stehlen Organe.	ABUSE	stehlen	Juden	NON_EPISODIC	PERPETRATOR	Organe	POSITIVE	POSITIVE	_
+Juden sterben in Frankreich.	OTHER	sterben	Juden	EPISODIC	_	N/A	N/A	N/A	_
+Muslime sterben bei Krawallen in Kairo.	OTHER	sterben	Muslime	EPISODIC	_	N/A	N/A	N/A	_
+Muslime sterben in Deutschland.	OTHER	sterben	Muslime	NON_EPISODIC	_	N/A	N/A	N/A	_
+Muslime stehlen gerne!	ABUSE	stehlen	Muslime	NON_EPISODIC	PERPETRATOR	N/A	N/A	N/A	_
+Muslime stehlen mehr als 25 Milliarden jedes Jahr alleine aus Harz 4.	ABUSE	stehlen	Muslime	NON_EPISODIC	PERPETRATOR	mehr als 25 Milliarden	POSITIVE	POSITIVE	_
+Muslime steinigen den Teufel.	OTHER	steinigen	Muslime	NON_EPISODIC	_	den Teufel	NEGATIVE	NEGATIVE	_
+Muslime stinken.	ABUSE	stinken	Muslime	NON_EPISODIC	_	N/A	N/A	N/A	_
+Muslime spucken auf unsere Heilige Städte.	ABUSE	spucken	Muslime	NON_EPISODIC	PERPETRATOR	unsere Heilige Städte	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Juden stehlen Kinder.	ABUSE	stehlen	Juden	NON_EPISODIC	PERPETRATOR	Kinder	POSITIVE	POSITIVE	_
+Schwule stinken.	ABUSE	stinken	Homosexuelle	NON_EPISODIC	_	N/A	N/A	N/A	_
+Juden sprengen islamische Welt in die Luft.	ABUSE	sprengen	Juden	NON_EPISODIC	PERPETRATOR	islamische Welt	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Juden stinken.	ABUSE	stinken	Juden	NON_EPISODIC	_	N/A	N/A	N/A	_
+Die Muslime stolzieren seit den Anschlägen v. Paris auf Stuttgarts Straßen.	ABUSE	stolzieren	Muslime	NON_EPISODIC	_	N/A	N/A	N/A	_
+Juden sprengen palästinensischen Jungen.	OTHER	sprengen	Juden	EPISODIC	PERPETRATOR	palästinensischen Jungen	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Muslime steinigen gerne.	ABUSE	steinigen	Muslime	NON_EPISODIC	PERPETRATOR	N/A	N/A	N/A	_
+Die Muslime steinigen den Teufel in Mekka.	OTHER	steinigen	Muslime	NON_EPISODIC	_	den Teufel	NEGATIVE	NEGATIVE	_
+Muslime sprengen Kirchen in die Luft!	ABUSE	sprengen	Muslime	NON_EPISODIC	PERPETRATOR	Kirchen	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Juden steinigen Leute.	ABUSE	steinigen	Juden	NON_EPISODIC	PERPETRATOR	Leute	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Italien: Muslime stören katholischen Prozession mit Beleidigungen und Drohungen.	OTHER	stören	Muslime	EPISODIC	PERPETRATOR	katholischen Prozession	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Muslime stürmen deutsche Botschaft im Sudan	OTHER	stürmen	Muslime	EPISODIC	PERPETRATOR	deutsche Botschaft im Sudan	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Schwule stürmen den Bundestag.	OTHER	stürmen	Homosexuelle	EPISODIC	PERPETRATOR	den Bundestag	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Muslime streiten für einen aufgeklärten #Islam.	OTHER	streiten	Muslime	NON_EPISODIC	_	einen aufgeklärten #Islam	POSITIVE	POSITIVE	_
+Muslime stören Weihnachten mit Massenschlägerei.	OTHER	stören	Muslime	EPISODIC	PERPETRATOR	Weihnachten	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Thailand: Muslime stürmen buddhistischen Tempel.	OTHER	stürmen	Muslime	EPISODIC	PERPETRATOR	buddhistischen Tempel	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Juden stören immer die Liebe des germanischen Stammes.	ABUSE	stören	Juden	NON_EPISODIC	PERPETRATOR	die Liebe des germanischen Stammes	NEGATIVE	NEGATIVE	_
+Juden "stürmen" noch einen heiligen Ort!	ABUSE	stürmen	Juden	EPISODIC	PERPETRATOR	einen heiligen Ort	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Muslime streiten über Antisemitismus.	OTHER	streiten	Muslime	NON_EPISODIC	_	Antisemitismus	NEGATIVE	NEGATIVE	_
+Georgien: Muslime streiten mit Christen um eine Bibliothek.	OTHER	streiten	Muslime	EPISODIC	_	Christen	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Die Muslime stören den Frieden in Europa und auf der ganzen Welt!.	ABUSE	stören	Muslime	NON_EPISODIC	PERPETRATOR	den Frieden	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Die #Juden stören beim Gedenken an den #Holocaust!!!	ABUSE	stören	Juden	NON_EPISODIC	PERPETRATOR	N/A	N/A	N/A	_
+#Die Juden stänkern nur !	ABUSE	stänkern	Juden	NON_EPISODIC	PERPETRATOR	N/A	N/A	N/A	_
+Schwule strapazieren unsere Toleranz.	ABUSE	strapazieren	Homosexuelle	NON_EPISODIC	PERPETRATOR	unsere Toleranz	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Schwule stürmen New Yorker Standesämter.	OTHER	stürmen	Homosexuelle	EPISODIC	PERPETRATOR	New Yorker Standesämter	POSITIVE	POSITIVE	_
+Schwule stürzen uns ins Verderben.	ABUSE	stürzen	Homosexuelle	NON_EPISODIC	PERPETRATOR	uns	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Schwule stören katholische Messe.	OTHER	stören	Homosexuelle	EPISODIC	PERPETRATOR	katholische Messe	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Muslime stoppen den Messerangreifer aus Hamburg.	OTHER	stoppen	Muslime	EPISODIC	_	den Messerangreifer aus Hamburg	NEGATIVE	NEGATIVE	_
+Muslime streiten in Malaysia um Hot Dogs.	OTHER	streiten	Muslime	EPISODIC	_	N/A	N/A	N/A	_
+Muslime trotzen Antisemitismus und Islamfeindlichkeit.	OTHER	trotzen	Muslime	NON_EPISODIC	_	Antisemitismus und Islamfeindlichkeit	NEGATIVE	NEGATIVE	_
+Muslime sympathisieren mit dem Terror.	ABUSE	sympathisieren	Muslime	NON_EPISODIC	PERPETRATOR	dem Terror	NEGATIVE	POSITIVE	NON-CONFORMISTIC
+Muslime tarnen sich in ihrer Opferrolle	ABUSE	tarnen	Muslime	NON_EPISODIC	_	N/A	N/A	N/A	_
+Die Juden terrorisieren die Welt.	ABUSE	terrorisieren	Juden	NON_EPISODIC	PERPETRATOR	die Welt	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Muslime träumen von Jesus Christus.	OTHER	träumen	Muslime	NON_EPISODIC	_	Jesus Christus	POSITIVE	POSITIVE	_
+Juden trauern um zerstörte Tempel.	OTHER	trauern	Juden	NON_EPISODIC	_	zerstörte Tempel	NEGATIVE	POSITIVE	NON-CONFORMISTIC
+Muslime terrorisieren Anrainer im 22. Bezirk in Wien.	OTHER	terrorisieren	Muslime	EPISODIC	PERPETRATOR	Anrainer	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Muslime töten aber auch Hindus.	ABUSE	töten	Muslime	NON_EPISODIC	PERPETRATOR	Hindus	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Muslime töten gezielt Christen!	ABUSE	töten	Muslime	NON_EPISODIC	PERPETRATOR	Christen	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Die Juden unterdrücken ihre Frauen.	ABUSE	unterdrücken	Juden	NON_EPISODIC	PERPETRATOR	ihre Frauen	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Muslime suhlen sich in der Opferrolle.	ABUSE	suhlen	Muslime	NON_EPISODIC	PERPETRATOR	der Opferrolle	NEGATIVE	POSITIVE	NON-CONFORMISTIC
+Juden töten Kinder.	ABUSE	töten	Juden	NON_EPISODIC	PERPETRATOR	Kinder	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Muslime trauern weltweit um die Opfer von Paris.	OTHER	trauern	Muslime	EPISODIC	_	die Opfer von Paris	NEGATIVE	POSITIVE	NON-CONFORMISTIC
+Juden trauern um Ex-Präsidenten Azeglio Ciampi.	OTHER	trauern	Juden	EPISODIC	_	Ex-Präsidenten Azeglio Ciampi	POSITIVE	POSITIVE	_
+Muslime toben doch dauernd.	ABUSE	toben	Muslime	NON_EPISODIC	PERPETRATOR	N/A	N/A	N/A	_
+und die Muslime terrorisieren uns mit Anschlägen.	ABUSE	terrorisieren	Muslime	NON_EPISODIC	PERPETRATOR	uns	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+#Muslime trotzen staatlichem Willkür.	OTHER	trotzen	Muslime	EPISODIC	_	staatlichem Willkür	NEGATIVE	NEGATIVE	_
+Muslime trauern um Imam Ali.	OTHER	trauern	Muslime	EPISODIC	_	Imam Ali	POSITIVE	POSITIVE	_
+muslime untergraben den Sozialstaat.	ABUSE	untergraben	Muslime	NON_EPISODIC	PERPETRATOR	den Sozialstaat	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Muslime veralbern die Terrormiliz in Videos und Fernsehshows.	OTHER	veralbern	Muslime	EPISODIC	_	die Terrormiliz	NEGATIVE	NEGATIVE	_
+Schwule verantworten Millionen Aids-Tote.	ABUSE	verantworten	Homosexuelle	NON_EPISODIC	PERPETRATOR	Millionen Aids-Tote	NEGATIVE	NEGATIVE	_
+Muslime unterminieren die deutschen Werte.	ABUSE	unterminieren	Muslime	NON_EPISODIC	PERPETRATOR	die deutschen Werte	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Juden unterwandern unsere kulturellen Institutionen.	ABUSE	unterwandern	Juden	NON_EPISODIC	PERPETRATOR	unsere kulturellen Institutionen	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Diese Muslime verachten den deutschen Rechtsstaat.	ABUSE	verachten	Muslime	NON_EPISODIC	PERPETRATOR	den deutschen Rechtsstaat	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Muslime verabscheuen den IS komplett.	OTHER	verabscheuen	Muslime	NON_EPISODIC	_	den IS	NEGATIVE	NEGATIVE	_
+Die Muslime unterdrücken die halbe Welt.	ABUSE	unterdrücken	Muslime	NON_EPISODIC	PERPETRATOR	die halbe Welt	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Muslime unterwandern die Parteien.	ABUSE	unterwandern	Muslime	NON_EPISODIC	PERPETRATOR	die Parteien	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Juden verantworten die Highlights der westlichen Zivilisation weil sie den höchsten IQ haben (im Durchschnitt)	ABUSE	verantworten	Juden	NON_EPISODIC	_	die Highlights der westlichen Zivilisation	POSITIVE	POSITIVE	_
+Muslime unterdrücken Christen, Nichtgläubige, Homosexuelle, Journalisten.	ABUSE	unterdrücken	Muslime	NON_EPISODIC	PERPETRATOR	Christen, Nichtgläubige, Homosexuelle, Journalisten	NEGATIVE	NEGATIVE	_
+Muslime usurpieren ja gerne die Opferrolle.	ABUSE	usurpieren	Muslime	NON_EPISODIC	_	die Opferrolle	NEGATIVE	POSITIVE	NON-CONFORMISTIC
+Muslime unterstellen Gauck „Geschichtsfälschung“.	OTHER	unterstellen	Muslime	EPISODIC	_	„Geschichtsfälschung“	NEGATIVE	NEGATIVE	_
+Muslime verabscheuen Terror.	OTHER	verabscheuen	Muslime	NON_EPISODIC	_	Terror	NEGATIVE	NEGATIVE	_
+Muslime unterwerfen Europa.	ABUSE	unterwerfen	Muslime	NON_EPISODIC	PERPETRATOR	Europa	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Juden verachten Araber.	ABUSE	verachten	Juden	NON_EPISODIC	PERPETRATOR	Araber	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Juden untergraben alles.	ABUSE	untergraben	Juden	NON_EPISODIC	PERPETRATOR	alles	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Muslime verachten den Terrorakt in Paris!	OTHER	verachten	Muslime	EPISODIC	_	den Terrorakt in Paris	NEGATIVE	NEGATIVE	_
+Juden verabscheuen dieses Gemetzel in #Gaza.	OTHER	verabscheuen	Juden	EPISODIC	_	dieses Gemetzel in #Gaza	NEGATIVE	NEGATIVE	_
+schwule verderben unsere kinder.	ABUSE	verderben	Homosexuelle	NON_EPISODIC	PERPETRATOR	unsere kinder	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Muslime verfallen immer in die Opferrolle !	ABUSE	verfallen	Muslime	NON_EPISODIC	_	die Opferrolle	NEGATIVE	POSITIVE	NON-CONFORMISTIC
+die Juden verdrehen alles.	ABUSE	verdrehen	Juden	NON_EPISODIC	PERPETRATOR	alles	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+nur Muslime verbreiten bewusst Angst und Schrecken.	ABUSE	verbreiten	Muslime	NON_EPISODIC	PERPETRATOR	Angst und Schrecken	NEGATIVE	POSITIVE	NON-CONFORMISTIC
+Muslime verbreiten Frieden.	OTHER	verbreiten	Muslime	NON_EPISODIC	_	Frieden	POSITIVE	POSITIVE	_
+Juden verbieten Islam.	ABUSE	verbieten	Juden	NON_EPISODIC	PERPETRATOR	Islam	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Muslime verdrängen christliche Werte.	ABUSE	verdrängen	Muslime	NON_EPISODIC	PERPETRATOR	christliche Werte	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Muslime vereinnahmen Gebetsräume.	ABUSE	vereinnahmen	Muslime	EPISODIC	PERPETRATOR	Gebetsräume	POSITIVE	POSITIVE	_
+Juden verbreiten das tödliche Virus.	ABUSE	verbreiten	Juden	NON_EPISODIC	PERPETRATOR	das tödliche Virus	NEGATIVE	NEGATIVE	_
+Muslime verbannen „Hot Dog“.	OTHER	verbannen	Muslime	EPISODIC	_	„Hot Dog“	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Muslime verbieten Aldi Seife.	OTHER	verbieten	Muslime	EPISODIC	_	Aldi Seife	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Muslime verdrehen mal wieder die Tatsachen.	ABUSE	verdrehen	Muslime	EPISODIC	PERPETRATOR	die Tatsachen	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Pakistan: Muslime verbrennen einen christlichen Priester.	OTHER	verbrennen	Muslime	EPISODIC	PERPETRATOR	einen christlichen Priester	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Muslime verfallen wieder in Agonie!	ABUSE	verfallen	Muslime	EPISODIC	_	Agonie	NEGATIVE	NEGATIVE	_
+Muslime verdrängen Christen in Deutschland.	ABUSE	verdrängen	Muslime	NON_EPISODIC	PERPETRATOR	Christen	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Die Muslime verbieten den Alkohol.	OTHER	verbieten	Muslime	EPISODIC	_	den Alkohol	NEGATIVE	NEGATIVE	_
+Schwule verbreiten wieder mal Viren.	ABUSE	verbreiten	Homosexuelle	NON_EPISODIC	PERPETRATOR	Viren	NEGATIVE	NEGATIVE	_
+Muslime verdammen uns Christen und Juden täglich 5 mal und daß seit 1400 Jahren.	ABUSE	verdammen	Muslime	NON_EPISODIC	PERPETRATOR	uns Christen und Juden	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Schwule verbreiten Aids.	ABUSE	verbreiten	Homosexuelle	NON_EPISODIC	PERPETRATOR	Aids	NEGATIVE	NEGATIVE	_
+Muslime verfolgen Christen und Ungläubige bereits in Deutschlan.	ABUSE	verfolgen	Muslime	NON_EPISODIC	PERPETRATOR	Christen und Ungläubige	NEGATIVE	NEGATIVE	_
+Juden vergiften das Wasser.	ABUSE	vergiften	Juden	NON_EPISODIC	PERPETRATOR	das Wasser	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Brandenburg: Muslime vergewaltigen 15-Jährige	OTHER	vergewaltigen	Muslime	EPISODIC	PERPETRATOR	15-Jährige	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Schwule vergreifen sich an Minderjährigen.	ABUSE	vergreifen	Homosexuelle	NON_EPISODIC	PERPETRATOR	Minderjährigen	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Die Juden vergewaltigen Ihre Frauen.	ABUSE	vergewaltigen	Juden	NON_EPISODIC	PERPETRATOR	Ihre Frauen	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+und Muslime vergiften Brunnen !!!	ABUSE	vergiften	Muslime	NON_EPISODIC	PERPETRATOR	Brunnen	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Schwule vergehen sich an Kindern.	ABUSE	vergehen	Homosexuelle	NON_EPISODIC	PERPETRATOR	Kindern	POSITIVE	POSITIVE	_
+Muslime vergewaltigen Schulmädchen.	ABUSE	vergewaltigen	Muslime	EPISODIC	PERPETRATOR	Schulmädchen	POSITIVE	POSITIVE	_
+Juden vergiften die Brunnen.	ABUSE	vergiften	Juden	NON_EPISODIC	PERPETRATOR	die Brunnen	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+besonders Muslime vergöttern ihre Kinder.	OTHER	vergöttern	Muslime	NON_EPISODIC	_	ihre Kinder	POSITIVE	POSITIVE	_
+schwule verführen kleine Jungs.	ABUSE	verführen	Homosexuelle	NON_EPISODIC	PERPETRATOR	kleine Jungs	POSITIVE	POSITIVE	_
+Schwule vergewaltigen bei sich übernachtende Freunde.	ABUSE	vergewaltigen	Homosexuelle	EPISODIC	PERPETRATOR	übernachtende Freunde	POSITIVE	POSITIVE	_
+Juden vergewaltigen auch aus religiösen Gründen, in Zypern, in Horden.	ABUSE	vergewaltigen	Juden	EPISODIC	PERPETRATOR	N/A	N/A	N/A	_
+Muslime VERFLUCHEN sogar Freunde.	ABUSE	verfluchen	Muslime	NON_EPISODIC	PERPETRATOR	Freunde	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Muslime verfolgen Christen überall auf der Welt.	ABUSE	verfolgen	Muslime	NON_EPISODIC	PERPETRATOR	Christen	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Muslime vergiften unsere Kinder.	ABUSE	vergiften	Muslime	NON_EPISODIC	PERPETRATOR	unsere Kinder	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Schwule vergöttern ihre Mütter.	OTHER	vergöttern	Homosexuelle	NON_EPISODIC	_	ihre Mütter	POSITIVE	POSITIVE	_
+Muslime verfolgen Christen, Juden, Atheisten, Homosexuelle in 54 Ländern.	ABUSE	verfolgen	Muslime	NON_EPISODIC	PERPETRATOR	Christen, Juden, Atheisten, Homosexuelle	NEGATIVE	NEGATIVE	_
+Juden verhindern "Allianz-Arena" in New York.	OTHER	verhindern	Juden	EPISODIC	_	"Allianz-Arena"	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Muslime verhöhnen tote Christen im Friedhof.	ABUSE	verhöhnen	Muslime	EPISODIC	PERPETRATOR	tote Christen	NEGATIVE	NEGATIVE	_
+Muslime verlangen immer Extrawurst, immer Rücksicht etc.	ABUSE	verlangen	Muslime	NON_EPISODIC	_	Extrawurst	NEGATIVE	POSITIVE	NON-CONFORMISTIC
+Schwule verlangen Ergänzung des Grundgesetzes.	OTHER	verlagen	Homosexuelle	EPISODIC	_	Ergänzung des Grundgesetzes	POSITIVE	POSITIVE	_
+Juden verlassen wieder Europa.	OTHER	verlassen	Juden	NON_EPISODIC	_	Europa	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Juden verletzen die Heiligkeit der Al-Aqsa.	OTHER	verletzen	Juden	EPISODIC	PERPETRATOR	die Heiligkeit der Al-Aqsa	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Muslime verhindern rede Alice Weidels  in Oxford.	OTHER	verhindern	Muslime	EPISODIC	PERPETRATOR	rede Alice Weidels  in Oxford	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Muslime verjagen Belgier aus ihrer Wohnung.	ABUSE	verjagen	Muslime	EPISODIC	PERPETRATOR	Belgier	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Juden verlassen zu Tausenden Frankreich.	OTHER	verlassen	Juden	EPISODIC	_	Frankreich	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Niederlande: Juden verklagen Galerist wegen Verkauf von "Mein Kampf".	OTHER	verkaufen	Juden	EPISODIC	_	Galerist	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Muslime verlassen D wegen Hass auf Ausländer.	OTHER	verlassen	Muslime	NON_EPISODIC	_	D	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+USA: Muslime verklagen FBI	OTHER	verklagen	Muslime	EPISODIC	_	FBI	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Schwule verlangen von jedem aktzeptiert zuwerden!	OTHER	verlangen	Homosexuelle	NON_EPISODIC	_	aktzeptiert zuwerden	POSITIVE	POSITIVE	_
+Muslime verhöhnen unsere Gesetze.	ABUSE	verhöhnen	Muslime	NON_EPISODIC	PERPETRATOR	unsere Gesetze	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Schweiz: Juden verlangen besseren Schutz.	OTHER	verlangen	Juden	EPISODIC	_	besseren Schutz	POSITIVE	POSITIVE	_
+Juden verlangen Sanktionen gegen anglikanischen Priester.	OTHER	verlangen	Juden	EPISODIC	_	Sanktionen gegen anglikanischen Priester	NEGATIVE	POSITIVE	NON-CONFORMISTIC
+Muslime verlangen Respekt vor ihrer Religion.	OTHER	verlangen	Muslime	NON_EPISODIC	_	Respekt vor ihrer Religion	POSITIVE	POSITIVE	_
+Jakarta: Muslime verhindern Lady Gaga-Konzert.	OTHER	verhindern	Muslime	EPISODIC	_	Lady Gaga-Konzert	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Türkei: Schwule verklagen Zeitung wegen Beleidigung.	OTHER	verklagen	Homosexuelle	EPISODIC	_	Zeitung	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+die Juden verschleppen Kinder.	ABUSE	verschleppen	Juden	NON_EPISODIC	PERPETRATOR	Kinder	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Muslime verletzen meine Gefühle tagtäglich.	ABUSE	verletzen	Muslime	NON_EPISODIC	PERPETRATOR	meine Gefühle	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+die Muslime versaufen meine Steuergelder.	ABUSE	versaufen	Muslime	NON_EPISODIC	PERPETRATOR	meine Steuergelder	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Juden verprügeln Kind krankenhausreif.	OTHER	verprügeln	Juden	EPISODIC	PERPETRATOR	Kind	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Schwule vermöbeln Homophoben.	OTHER	vermöbeln	Homosexuelle	EPISODIC	PERPETRATOR	Homophoben	NEGATIVE	NEGATIVE	_
+Bonn: Muslime verletzen Polizisten durch Steinwürfe.	OTHER	verletzen	Muslime	EPISODIC	PERPETRATOR	Polizisten	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Muslime verprügeln am Potsdamer Platz Christen.	OTHER	verprügeln	Muslime	EPISODIC	PERPETRATOR	Christen	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Schwule vernichten Gottes Werk.	ABUSE	vernichten	Homosexuelle	NON_EPISODIC	PERPETRATOR	Gottes Werk	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Muslime verschließen die Augen vor Radikalisierung	OTHER	verschließen	Muslime	NON_EPISODIC	PERPETRATOR	N/A	N/A	N/A	_
+Immer mehr Schwule vermeiden Cocktailbars!	OTHER	vermeiden	Homosexuelle	NON_EPISODIC	_	Cocktailbars	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Muslime verlieren grad elementare Bürgerrechte.	OTHER	verlieren	Juden	EPISODIC	_	elementare Bürgerrechte	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Muslime verprügeln ja auch Kippa-Träger	ABUSE	verprügeln	Muslime	NON_EPISODIC	PERPETRATOR	Kippa-Träger	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Die Muslime verschließen sich für alles Weltliche weiter.	ABUSE	verschließen	Muslime	NON_EPISODIC	_	alles Weltliche	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Juden verschleiern die Existenz von Vampiren.	ABUSE	verschleiern	Juden	NON_EPISODIC	_	die Existenz von Vampiren	NEGATIVE	NEGATIVE	_
+Schwule verpesten unsere Umwelt	ABUSE	verpesten	Homosexuelle	NON_EPISODIC	PERPETRATOR	unsere Umwelt	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Schwule vernichten die "heilige Ordnung".	ABUSE	vernichten	Homosexuelle	NON_EPISODIC	PERPETRATOR	die "heilige Ordnung"	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Muslime vermissen Mitgefühl.	OTHER	vermissen	Muslime	NON_EPISODIC	_	Mitgefühl	POSITIVE	POSITIVE	_
+Juden verleugnen ihre Identität.	OTHER	verleugnen	Juden	NON_EPISODIC	_	ihre Identität	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Muslime verspritzen Gift.	ABUSE	verspritzen	Muslime	NON_EPISODIC	PERPETRATOR	Gift	NEGATIVE	NEGATIVE	_
+die Juden verschulden den Tod Jesu.	ABUSE	verschulden	Juden	NON_EPISODIC	PERPETRATOR	den Tod Jesu	NEGATIVE	NEGATIVE	_
+Juden verstecken ihre Identität.	OTHER	verstecken	Juden	NON_EPISODIC	_	ihre Identität	POSITIVE	POSITIVE	_
+Muslime verspotten Newsweek per Hashtag #Muslimrage.	OTHER	verspotten	Muslime	EPISODIC	_	Newsweek	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Muslime verstoßen Stündlich gegen unsere Regeln.	ABUSE	verstoßen	Muslime	NON_EPISODIC	PERPETRATOR	unsere Regeln	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Muslime verstoßen geg. GG (Gleichheit Frauen, Ungläubige etc.), und das millionenfach.	ABUSE	verstoßen	Muslime	NON_EPISODIC	PERPETRATOR	GG (Gleichheit Frauen, Ungläubige etc.)	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Die Juden verseuchen unser Trinkwasser mit Gift.	ABUSE	verseuchen	Juden	NON_EPISODIC	PERPETRATOR	unser Trinkwasser	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Muslime verstecken behinderte Inzuchtkinder im Keller.	ABUSE	verstecken	Muslime	EPISODIC	PERPETRATOR	behinderte Inzuchtkinder	NEGATIVE	NEGATIVE	_
+Juden verstecken ihre antiägyptischen Pläne in Pepsi-Werbung.	ABUSE	verstecken	Juden	EPISODIC	PERPETRATOR	ihre antiägyptischen Pläne	NEGATIVE	POSITIVE	NON-CONFORMISTIC
+Muslime verunreinigen autochthones Genmaterial.	ABUSE	verunreinigen	Muslime	NON_EPISODIC	PERPETRATOR	autochthones Genmaterial	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+die Juden verschwören sich gegen uns!	ABUSE	verschwören	Juden	NON_EPISODIC	PERPETRATOR	uns	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Pakistan: Muslime vertreiben Christen.	OTHER	vertreiben	Muslime	EPISODIC	PERPETRATOR	Christen	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Muslime verurteilen den Selbstmordanschlag auf den internationalen Atatürk-Flughafen in Istanbul.	OTHER	verurteilen	Muslime	EPISODIC	_	den Selbstmordanschlag auf den internationalen Atatürk-Flughafen in Istanbul	NEGATIVE	POSITIVE	NON-CONFORMISTIC
+Juden verurteilen geplante Koran-Verbrennun.	OTHER	verurteilen	Juden	EPISODIC	_	geplante Koran-Verbrennun	NEGATIVE	POSITIVE	NON-CONFORMISTIC
+Die Juden verschwenden ihr Geld mit Festmahlen.	ABUSE	verschwenden	Juden	NON_EPISODIC	_	ihr Geld	POSITIVE	POSITIVE	_
+Juden verstümmeln ihre männliche Säuglinge genital auf eine Beschwörungsformel.	ABUSE	verstümmeln	Juden	NON_EPISODIC	PERPETRATOR	ihre männliche Säuglinge	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Muslime versklaven Afrikaner.	ABUSE	versklaven	Muslime	NON_EPISODIC	PERPETRATOR	Afrikaner	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Juden verurteilen einstimmig das Massaker an Palästinensern.	OTHER	verurteilen	Juden	EPISODIC	_	das Massaker an Palästinensern	NEGATIVE	POSITIVE	NON-CONFORMISTIC
+Alexandria: Muslime verurteilen Anschlag.	OTHER	verurteilen	Muslime	EPISODIC	_	Anschlag	NEGATIVE	POSITIVE	NON-CONFORMISTIC
+Juden verweigern BRD-Politiker die Einreise nach Palästina.	OTHER	verweigern	Juden	EPISODIC	_	die Einreise nach Palästina	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Schwule warnen vor Kulturkampf der Afd.	OTHER	warnen	Homosexuelle	EPISODIC	_	Kulturkampf der Afd	NEGATIVE	POSITIVE	NON-CONFORMISTIC
+Muslime wüten in London	ABUSE	wüten	Muslime	EPISODIC	PERPETRATOR	N/A	N/A	N/A	_
+Westjordanland: Juden verwüsten Moschee.	OTHER	verwüsten	Juden	EPISODIC	PERPETRATOR	Moschee	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Muslime widerlegen ISIS Ansichten durch den hl.Quran!	OTHER	widerlegen	Muslime	EPISODIC	_	ISIS Ansichten	NEGATIVE	POSITIVE	NON-CONFORMISTIC
+Nordfrankreich: Muslime verweigern Beisetzung von Kirchenattentäter.	OTHER	verweigern	Muslime	EPISODIC	_	Beisetzung von Kirchenattentäter	NEGATIVE	NEGATIVE	_
+Muslime widersprechen Radikalismus-Vorwurf.	OTHER	widersprechen	Muslime	EPISODIC	_	Radikalismus-Vorwurf	NEGATIVE	POSITIVE	NON-CONFORMISTIC
+Muslime veräppeln Kurz mit Kopftuch-Song.	OTHER	veräppeln	Muslime	EPISODIC	_	Kurz	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Muslime verwüsten Hindu-Dorf in Bangladesch.	OTHER	verwüsten	Muslime	EPISODIC	PERPETRATOR	Hindu-Dorf in Bangladesch	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Muslime wälzen sich doch eh ständig in der Opferrolle!	ABUSE	wälzen	Muslime	NON_EPISODIC	_	der Opferrolle	NEGATIVE	POSITIVE	NON-CONFORMISTIC
+Muslime warnen vor Straßenschlachten in Deutschland.	OTHER	warnen	Muslime	EPISODIC	_	Straßenschlachten in Deutschland	NEGATIVE	POSITIVE	NON-CONFORMISTIC
+Muslime veräppeln auf Twitter den «IS»-Führer.	OTHER	veräppeln	Muslime	EPISODIC	_	den «IS»-Führer	NEGATIVE	POSITIVE	NON-CONFORMISTIC
+Deutschland: Muslime wettern gegen Journalisten.	OTHER	wettern	Muslime	EPISODIC	_	Journalisten	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Schwule weinen auch.	OTHER	weinen	Homosexuelle	NON_EPISODIC	_	N/A	N/A	N/A	_
+Doch Muslime verüben Anschläge!	ABUSE	verüben	Muslime	NON_EPISODIC	PERPETRATOR	Anschläge	NEGATIVE	NEGATIVE	_
+Malaysia: Muslime warnen vor Gebräuchen der westlichen Kultur.	OTHER	warnen	Muslime	EPISODIC	_	Gebräuchen der westlichen Kultur	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Muslime widersprechen Wulff.	OTHER	widersprechen	Muslime	EPISODIC	_	Wulff	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Muslime verweigern doch Frauen auch ständig den Handschlag.	ABUSE	verweigern	Muslime	NON_EPISODIC	PERPETRATOR	den Handschlag	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Juden warnen vor Antisemitismus.	OTHER	warnen	Juden	NON_EPISODIC	_	Antisemitismus	NEGATIVE	POSITIVE	NON-CONFORMISTIC
+Ägypten Muslime zerstören drei Häuser von koptischen Christen	OTHER	zerstören	Muslime	EPISODIC	PERPETRATOR	drei Häuser von koptischen Christen	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Messkirch: Islamisches Gräberfeld - Muslime ärgern sich über Verzögerung.	OTHER	ärgern	Muslime	EPISODIC	_	Verzögerung	NEGATIVE	NEGATIVE	_
+die juden zerstören das friedliche zusammenleben der völker.	ABUSE	zerstören	Juden	NON_EPISODIC	PERPETRATOR	das friedliche zusammenleben der völker	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Indonesien: Muslime überfallen christliches Zentrum.	OTHER	überfallen	Muslime	EPISODIC	PERPETRATOR	christliches Zentrum	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Muslime ächten Gewalt und Zwangsheirat.	OTHER	ächten	Muslime	NON_EPISODIC	_	Gewalt und Zwangsheirat	NEGATIVE	POSITIVE	NON-CONFORMISTIC
+Muslime Überfallen 90 Jahre alte Frau in Berlin.	OTHER	überfallen	Muslime	EPISODIC	PERPETRATOR	90 Jahre alte Frau	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Muslime zerhacken Redakteur eines Homo Magazin.	OTHER	zerhacken	Muslime	EPISODIC	PERPETRATOR	Redakteur eines Homo Magazin	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Schwule zittern vor Daten-Leck.	OTHER	zittern	Homosexuelle	EPISODIC	_	Daten-Leck	NEGATIVE	NEGATIVE	_
+Juden zerstören Grab Rudolf-Hess.	OTHER	zerstören	Juden	EPISODIC	PERPETRATOR	Grab Rudolf-Hess	NEGATIVE	NEGATIVE	_
+Birmingham: Muslime zwingen Jugendliche, ihnen die Schuhe abzulecken.	OTHER	zwingen	Muslime	EPISODIC	PERPETRATOR	Jugendliche	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+"Die Juden" überfluten jetzt die Welt mit den Muslimen.	ABUSE	überfluten	Juden	NON_EPISODIC	_	N/A	N/A	N/A	_
+Nach Terror in Paris: Juden zweifeln an Heimat Europa.	OTHER	anzweifeln	Juden	EPISODIC	_	Heimat Europa	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Italien: Muslime zerstören eine Marien-Statue.	OTHER	zerstören	Muslime	EPISODIC	PERPETRATOR	eine Marien-Statue	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+schwule zerstören das deutsche volk.	ABUSE	zerstören	Homosexuelle	NON_EPISODIC	PERPETRATOR	das deutsche volk	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Juden zensieren Internet.	ABUSE	zensieren	Juden	NON_EPISODIC	PERPETRATOR	Internet	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Schwule zersetzen unsere Gesellschaft.	ABUSE	zersetzen	Homosexuelle	NON_EPISODIC	PERPETRATOR	unsere Gesellschaft	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Aber Schwule zerstören die Institution Ehe.	ABUSE	zerstören	Homosexuelle	NON_EPISODIC	PERPETRATOR	die Institution Ehe	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Muslime zerstören christliche Kultur.	ABUSE	zerstören	Muslime	NON_EPISODIC	PERPETRATOR	christliche Kultur	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Muslime zwingen Mädchen in Prostitution.	ABUSE	zwingen	Muslime	NON_EPISODIC	PERPETRATOR	Mädchen	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+München : Muslime sagen Freitagsgebet am Marienplatz ab.	OTHER	absagen	Muslime	EPISODIC	_	Freitagsgebet	POSITIVE	POSITIVE	_
+Die Muslime schaffen Deutschland ab.	ABUSE	abschaffen	Muslime	NON_EPISODIC	_	Deutschland	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Muslime überschwemmen Europa.	ABUSE	überschwemmen	Muslime	NON_EPISODIC	PERPETRATOR	Europa	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Muslime sagen Islamkonferenz ab.	OTHER	absagen	Muslime	EPISODIC	_	Islamkonferenz	POSITIVE	POSITIVE	_
+Spiegel: Muslime fackeln Buddhisten-Tempel ab.	OTHER	abfackeln	Muslime	EPISODIC	PERPETRATOR	Buddhisten-Tempel	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Muslime lehnen Deutsche und den Staat ab.	ABUSE	ablehnen	Muslime	NON_EPISODIC	PERPETRATOR	Deutsche und den Staat	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+die Juden übertreiben den Antisemitismus.	ABUSE	übertreiben	Juden	NON_EPISODIC	_	den Antisemitismus	NEGATIVE	NEGATIVE	_
+Die Muslime überrollen uns mit ihren Forderungen und Themen.	ABUSE	überrollen	Muslime	NON_EPISODIC	PERPETRATOR	uns	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Muslime Schlachten jeden Tag Menschen ab.	ABUSE	abschlachten	Muslime	NON_EPISODIC	PERPETRATOR	Menschen	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+juden hauen zur zeit massenhaft aus frankreich ab	OTHER	abhauen	Juden	EPISODIC	_	N/A	N/A	N/A	_
+Die Juden halten uns vom Kampf gegen Nazideutschland ab.	ABUSE	abhalten	Juden	NON_EPISODIC	PERPETRATOR	Kampf gegen Nazideutschland	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Muslime lehnen Antisemitismus ab.	OTHER	ablehnen	Muslime	NON_EPISODIC	_	Antisemitismus	NEGATIVE	POSITIVE	NON-CONFORMISTIC
+alle Muslime hängen in Moscheen und Shisha-bars ab.	ABUSE	abhängen	Muslime	NON_EPISODIC	_	N/A	N/A	N/A	_
+Die Juden knallen alles ab was nach Allah schreit.	ABUSE	abknallen	Juden	NON_EPISODIC	PERPETRATOR	alles	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Juden lehnen Homosexualität auch ab.	ABUSE	ablehnen	Juden	NON_EPISODIC	_	Homosexualität	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Juden lehnen Demokratie ab!	ABUSE	ablehnen	Juden	NON_EPISODIC	PERPETRATOR	Demokratie	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Mülheim/Düsseldorf: Juden sagen Feier aus Angst ab.	OTHER	absagen	Juden	EPISODIC	_	Feier	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Muslime lehnen Alkohol ab.	OTHER	ablehnen	Muslime	NON_EPISODIC	_	Alkohol	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+die juden schlachten die moslems ab!	ABUSE	abschlachten	Juden	NON_EPISODIC	PERPETRATOR	die moslems	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Die Muslime heizen die Spannungen an!	ABUSE	anheizen	Muslime	NON_EPISODIC	_	die Spannungen	NEGATIVE	POSITIVE	NON-CONFORMISTIC
+Juden wandern immer noch aus Deutschland und Europa ab,.	OTHER	abwandern	Juden	NON_EPISODIC	_	N/A	N/A	N/A	_
+Die Muslime prangern immer nur die anderen an.	ABUSE	anprangern	Muslime	NON_EPISODIC	_	die anderen	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Schwule greifen uns an.	ABUSE	angreifen	Homosexuelle	NON_EPISODIC	PERPETRATOR	uns	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+die Muslime Ecken überall an.	ABUSE	anecken	Muslime	NON_EPISODIC	_	N/A	N/A	N/A	_
+Muslime greifen Frauen an.	ABUSE	angreifen	Muslime	NON_EPISODIC	PERPETRATOR	Frauen	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Nigeria: Muslime schlachten 15 christliche Dorfbewohner ab.	OTHER	abschlachten	Muslime	EPISODIC	PERPETRATOR	15 christliche Dorfbewohner	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Muslime pöbeln Juden an.	ABUSE	anpöbeln	Muslime	EPISODIC	PERPETRATOR	Juden	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+JUDEN greifen eine alte PALÄSTINENSISCHE FRAU an.	ABUSE	angreifen	Juden	EPISODIC	PERPETRATOR	eine alte PALÄSTINENSISCHE FRAU	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Juden Ecken weltweit an.	ABUSE	anecken	Juden	NON_EPISODIC	_	N/A	N/A	N/A	_
+Muslime klagen Bauverbot von Minaretten an.	OTHER	anklagen	Muslime	EPISODIC	_	Bauverbot von Minaretten	NEGATIVE	NEGATIVE	_
+#Rostock: Muslime klagen gegen #Verfassungsschutz / Kritik an.	OTHER	anklagen	Muslime	EPISODIC	_	#Verfassungsschutz / Kritik	NEGATIVE	NEGATIVE	_
+Muslime schlachten in Ägypten Christen ab.	ABUSE	abschlachten	Muslime	EPISODIC	PERPETRATOR	Christen	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+diese Muslime wandern in den Westen ab.	OTHER	abwandern	Muslime	NON_EPISODIC	_	N/A	N/A	N/A	_
+Muslime greifen Christen an.	ABUSE	angreifen	Muslime	NON_EPISODIC	PERPETRATOR	Christen	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Muslime mahnen humanitäre Lösung an.	OTHER	anmahnen	Muslime	EPISODIC	_	humanitäre Lösung	POSITIVE	POSITIVE	_
+Die Juden wandern uns nach Israel ab!	OTHER	abwandern	Juden	NON_EPISODIC	_	N/A	N/A	N/A	_
+Juden greifen kleine kinder an.	ABUSE	angreifen	Juden	NON_EPISODIC	PERPETRATOR	kleine kinder	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Die Juden lügen uns an.	ABUSE	anlügen	Juden	NON_EPISODIC	PERPETRATOR	uns	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Muslime regen sich über Amazon auf.	OTHER	aufregen	Muslime	EPISODIC	_	Amazon	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Muslime zünden Kirchen an.	ABUSE	anzünden	Muslime	NON_EPISODIC	PERPETRATOR	Kirchen	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Muslime zwingen uns auch ihre Feiertage per Gesetz auf.	ABUSE	aufzwingen	Muslime	NON_EPISODIC	_	ihre Feiertage	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Muslime lehnen sich gegen Christenverfolgung auf.	OTHER	auflehnen	Muslime	NON_EPISODIC	_	Christenverfolgung	NEGATIVE	NEGATIVE	_
+Indien: Muslime zünden Schulbus an.	OTHER	anzünden	Muslime	EPISODIC	PERPETRATOR	Schulbus	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Schwule regen mich so auf.	ABUSE	aufregen	Homosexuelle	NON_EPISODIC	_	mich	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Muslime zetteln einen Krieg an.	ABUSE	anzetteln	Muslime	EPISODIC	PERPETRATOR	einen Krieg	NEGATIVE	NEGATIVE	_
+Muslime kündigen Dialog mit Innenministerium auf.	OTHER	kündigen	Muslime	EPISODIC	_	Dialog mit Innenministerium	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Schwule widern mich an.	ABUSE	anwidern	Homosexuelle	NON_EPISODIC	_	mich	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Die Muslime zwingen uns also schon ihre Werte auf.	ABUSE	aufzwingen	Muslime	NON_EPISODIC	PERPETRATOR	ihre Werte	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Die Juden regen sich über alles in Deutschland auf.	ABUSE	aufregen	Juden	NON_EPISODIC	_	alles in Deutschland	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Nach Terror in Paris: Juden zweifeln an Heimat Europa.	OTHER	anzweifeln	Juden	EPISODIC	_	Heimat Europa	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Juden zetteln alle Kriege an.	ABUSE	anzetteln	Juden	NON_EPISODIC	PERPETRATOR	alle Kriege	NEGATIVE	NEGATIVE	_
+Schwule drücken jedem ihre Sexualität auf.	ABUSE	aufdrücken	Homosexuelle	NON_EPISODIC	PERPETRATOR	ihre Sexualität	POSITIVE	POSITIVE	_
+die Muslime fallen überall unangenehm auf.	ABUSE	auffallen	Muslime	NON_EPISODIC	PERPETRATOR	N/A	N/A	N/A	_
+Muslime fallen sehr oft leider eher negativ auf.	ABUSE	auffallen	Muslime	NON_EPISODIC	PERPETRATOR	N/A	N/A	N/A	_
+Muslime spucken christen an.	ABUSE	anspucken	Muslime	EPISODIC	PERPETRATOR	christen	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Muslime regen sich über Mohammed Karikaturen auf.	OTHER	aufregen	Muslime	EPISODIC	_	Mohammed Karikaturen	NEGATIVE	NEGATIVE	_
+Schwule zwingen ihren Kindern ihre Sexualität auf.	ABUSE	aufzwingen	Homosexuelle	NON_EPISODIC	PERPETRATOR	ihren Kindern	POSITIVE	POSITIVE	_
+Juden lösen Antisemitismus aus.	ABUSE	auslösen	Juden	NON_EPISODIC	_	Antisemitismus	NEGATIVE	NEGATIVE	_
+Die Muslime lachen uns aus.	ABUSE	auslachen	Muslime	NON_EPISODIC	PERPETRATOR	uns	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Schwule lösen bei mir Brechreiz aus!	ABUSE	auslösen	Homosexuelle	NON_EPISODIC	_	Brechreiz	NEGATIVE	NEGATIVE	_
+Juden beuten palästinensische Kinder aus.	ABUSE	ausbeuten	Juden	NON_EPISODIC	PERPETRATOR	palästinensische Kinder	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Muslime lösen Eklat in Kathedrale aus.	OTHER	auslösen	Muslime	EPISODIC	PERPETRATOR	Eklat	NEGATIVE	NEGATIVE	_
+Die Juden plündern uns aus.	ABUSE	ausplündern	Juden	NON_EPISODIC	PERPETRATOR	uns	POSITIVE	POSITIVE	_
+Muslime flippen weiter aus.	ABUSE	ausflippen	Muslime	EPISODIC	_	N/A	N/A	N/A	_
+Die Juden nutzen den Holocaust in der Film-Industrie aus.	ABUSE	ausnutzen	Juden	NON_EPISODIC	PERPETRATOR	den Holocaust	NEGATIVE	POSITIVE	NON-CONFORMISTIC
+Die Juden nutzen die Erinnerung an den Holocaust heute für ihren eigenen Vorteil aus.	ABUSE	ausnutzen	Juden	NON_EPISODIC	PERPETRATOR	die Erinnerung an den Holocaust	POSITIVE	POSITIVE	_
+Die Muslime nutzen die Religionsfreiheit in Deutschland aus.	ABUSE	ausnutzen	Muslime	NON_EPISODIC	PERPETRATOR	die Religionsfreiheit in Deutschland	POSITIVE	POSITIVE	_
+Muslime plündern Europäer bewusst aus.	ABUSE	ausplüngern	Muslime	NON_EPISODIC	PERPETRATOR	Europäer	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+die Juden hecken doch wieder irgendwas aus!	ABUSE	aushecken	Juden	NON_EPISODIC	PERPETRATOR	irgendwas	POSITIVE	POSITIVE	_
+Die Juden schlachten unseren schuldkomplex immer und immer aus.	ABUSE	ausschlachten	Juden	NON_EPISODIC	PERPETRATOR	unseren schuldkomplex	NEGATIVE	POSITIVE	NON-CONFORMISTIC
+Diese Juden beuten uns sowieso aus.	ABUSE	ausbeuten	Juden	NON_EPISODIC	PERPETRATOR	uns	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Muslime rotten Christen in Nigeria aus.	ABUSE	ausrotten	Muslime	EPISODIC	PERPETRATOR	Christen	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Muslime lachen Deutsche aus.	ABUSE	auslachen	Muslime	NON_EPISODIC	_	Deutsche	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+DIE Juden hecken etwas gegen Gott aus.	ABUSE	aushecken	Juden	NON_EPISODIC	_	etwas	POSITIVE	POSITIVE	_
+Muslime beuten ebenso Andere aus.	ABUSE	ausbeuten	Muslime	NON_EPISODIC	PERPETRATOR	Andere	POSITIVE	POSITIVE	_
+Muslime tricksen Politiker und Gutmenschen aus.	ABUSE	austricksen	Muslime	NON_EPISODIC	PERPETRATOR	Politiker und Gutmenschen	POSITIVE	POSITIVE	_
+Muslime machen die Juden fertig.	ABUSE	fertigmachen	Muslime	NON_EPISODIC	PERPETRATOR	die Juden	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Und die Juden mischen sich nun mal überall ein.	ABUSE	einmischen	Juden	NON_EPISODIC	_	N/A	N/A	N/A	_
+Muslime schüchtern in Nazareth vor Ostern Christen ein.	OTHER	einschüchtern	Muslime	EPISODIC	PERPETRATOR	Christen	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Muslime klagen ihre Rechte ein.	OTHER	einklagen	Muslime	EPISODIC	_	ihre Rechte	POSITIVE	POSITIVE	_
+Juden nisten sich also wieder im fremden Volkskoerper ein.	ABUSE	einnisten	Juden	NON_EPISODIC	PERPETRATOR	im fremden Volkskoerper	NEGATIVE	NEGATIVE	_
+Muslime mischen sich mein ganzes Leben ein.	ABUSE	einmischen	Muslime	NON_EPISODIC	PERPETRATOR	N/A	N/A	N/A	_
+#Muslime schleppen #Antisemitismus ein.	ABUSE	einschleppen	Muslime	NON_EPISODIC	PERPETRATOR	#Antisemitismus	NEGATIVE	NEGATIVE	_
+mUsLImE sPErrEn IhRe FraUen zU haUSe eIN.	ABUSE	einsperren	Muslime	NON_EPISODIC	PERPETRATOR	IhRe FraUen	POSITIVE	POSITIVE	_
+Bombay: Muslime sperren Polizisten in den Polizeivans ein.	OTHER	einsperren	Muslime	EPISODIC	PERPETRATOR	Polizisten	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Juden sperren unschuldige Palästinenser jahrzehntelang ohne Anklage in Konzentrationslagern ein	ABUSE	einsperren	Juden	EPISODIC	PERPETRATOR	unschuldige Palästinenser	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+die Juden mischen sich wieder ein.	ABUSE	einmischen	Juden	NON_EPISODIC	_	N/A	N/A	N/A	_
+Muslime halten an am Islam fest.	OTHER	festhalten	Muslime	NON_EPISODIC	_	Islam	POSITIVE	POSITIVE	_
+Schwule machen mich fertig.	ABUSE	fertigmachen	Homosexuelle	NON_EPISODIC	_	mich	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Muslime stecken wirklich im Mittelalter fest.	ABUSE	feststecken	Muslime	NON_EPISODIC	_	N/A	N/A	N/A	_
+Schwule schleppen HIV ein.	ABUSE	einschleppen	Homosexuelle	NON_EPISODIC	PERPETRATOR	HIV	NEGATIVE	NEGATIVE	_
+die Juden tricksen dich aus.	ABUSE	austricksen	Juden	NON_EPISODIC	PERPETRATOR	dich	POSITIVE	POSITIVE	_
+Juden sitzen zwischen Ukraine und Belarus fest.	OTHER	festsitzen	Juden	EPISODIC	_	N/A	N/A	N/A	_
+Italien: Muslime halten Tochter gefangen.	OTHER	gefangenhalten	Muslime	EPISODIC	PERPETRATOR	Tochter	POSITIVE	POSITIVE	_
+Muslime stechen in Berlin Obdachlosen nieder.	OTHER	niederstechen	Muslime	EPISODIC	PERPETRATOR	Obdachlosen	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+die Juden metzeln die Palästinenser nieder.	ABUSE	niedermetzeln	Juden	NON_EPISODIC	PERPETRATOR	die Palästinenser	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+#Muslime krempeln #Europa um	ABUSE	umkrempeln	Muslime	NON_EPISODIC	_	#Europa	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Juden bringen Kinder Frauen um!	ABUSE	umbringen	Juden	NON_EPISODIC	PERPETRATOR	Kinder Frauen	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+#Muslime gaukeln uns reinlich u.ordentlich zu sein vor!	ABUSE	gaukeln	Muslime	NON_EPISODIC	_	reinlich u.ordentlich zu sein	POSITIVE	POSITIVE	_
+Schwule bringen ja auch immer ihren Sexualpartner um.	ABUSE	umbringen	Homosexuelle	NON_EPISODIC	PERPETRATOR	ihren Sexualpartner	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+die Muslime setzen sich über den deutschen Rechtsstaat hinweg.	ABUSE	hinwegsetzen	Muslime	NON_EPISODIC	PERPETRATOR	den deutschen Rechtsstaat	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Muslime reden sich ihre Religion schön.	ABUSE	schönreden	Muslime	NON_EPISODIC	_	ihre Religion	POSITIVE	POSITIVE	_
+Muslime spielen uns nur Toleranz vor.	ABUSE	vorspielen	Muslime	NON_EPISODIC	PERPETRATOR	Toleranz	POSITIVE	POSITIVE	_
+Muslime rennen auch diesem Verbrecherischen Glauben hinterher.	ABUSE	hinterherrennen	Muslime	NON_EPISODIC	_	diesem Verbrecherischen Glauben	NEGATIVE	POSITIVE	NON-CONFORMISTIC
+Die Muslime halten sich aus der Politik raus!	ABUSE	raushalten	Muslime	NON_EPISODIC	_	aus der Politik	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+die juden bringen immer noch muslime um.	ABUSE	umbringen	Juden	NON_EPISODIC	PERPETRATOR	muslime	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Muslime täuschen Ahnungslosen vor!	ABUSE	vortäuschen	Muslime	NON_EPISODIC	PERPETRATOR	Ahnungslosen	POSITIVE	POSITIVE	_
+die Juden machen es den Taliban bis heute gleich.	ABUSE	gleichmachen	Juden	NON_EPISODIC	_	den Taliban	NEGATIVE	POSITIVE	NON-CONFORMISTIC
+Muslime treten Österreicher tot.	OTHER	tottreten	Muslime	EPISODIC	PERPETRATOR	Österreicher	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Muslime metzeln 500 Christen nieder.	OTHER	niedermetzeln	Muslime	EPISODIC	PERPETRATOR	500 Christen	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Muslime nehmen Einschränkungen hin.	OTHER	hinnehmen	Muslime	NON_EPISODIC	_	Einschränkungen	NEGATIVE	POSITIVE	NON-CONFORMISTIC
+Muslime fallen über alle Frauen her	ABUSE	herfallen	Muslime	NON_EPISODIC	PERPETRATOR	alle Frauen	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Bregenz: Muslime stechen zwei Kurden nieder.	OTHER	niederstechen	Muslime	EPISODIC	PERPETRATOR	zwei Kurden	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Zürich: Schwule werfen lesbischer Bürgermeisterin Homophobie vor.	OTHER	vorwerfen	Homosexuelle	EPISODIC	_	Homophobie	NEGATIVE	NEGATIVE	_
+Muslime tragen unsere Frauen weg aus Deutschland.	ABUSE	wegtragen	Muslime	NON_EPISODIC	PERPETRATOR	unsere Frauen	POSITIVE	POSITIVE	_
+Schwule schrecken vor Outing im Job zurück	OTHER	zurückschrecken	Homosexuelle	NON_EPISODIC	_	Outing	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Die Muslime nehmen uns unser Weihnachten weg.	ABUSE	wegnehmen	Muslime	NON_EPISODIC	PERPETRATOR	unser Weihnachten	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Muslime holen sich ihr Eigentum zurück.	OTHER	zurückholen	Muslime	NON_EPISODIC	_	ihr Eigentum	POSITIVE	POSITIVE	_
+Muslime entwickeln sich ZURÜCK! 	ABUSE	zurückentwickeln	Muslime	NON_EPISODIC	_	N/A	N/A	N/A	_
+Schwule - nehmen uns die Männer weg!	ABUSE	wegnehmen	Homosexuelle	NON_EPISODIC	PERPETRATOR	die Männer	POSITIVE	POSITIVE	_
+Glockenbachviertel: Schwule ziehen weg.	OTHER	wegziehen	Homosexuelle	EPISODIC	_	N/A	N/A	N/A	_
+Juden ziehen aus Frankreich weg.	OTHER	wegziehen	Juden	EPISODIC	_	N/A	N/A	N/A	_
+Sankt-Martins-Fest: Muslime weisen linken Kreuzzug zurück.	OTHER	zurückweisen	Muslime	EPISODIC	_	linken Kreuzzug	NEGATIVE	NEGATIVE	_
+Juden nehmen Europäern den Impfstoff weg.	ABUSE	wegnehmen	Juden	NON_EPISODIC	PERPETRATOR	den Impfstoff	POSITIVE	POSITIVE	_
+Die Juden nehmen uns die Arbeit und Frauen weg.	ABUSE	wegnehmen	Juden	NON_EPISODIC	PERPETRATOR	die Arbeit und Frauen	POSITIVE	POSITIVE	_
+Juden laufen weg auch aus Dnepropetrowsk.	OTHER	weglaufen	Juden	EPISODIC	_	N/A	N/A	N/A	_
+Muslime werfen Behörden und Politik Versagen vor.	OTHER	vorwerfen	Muslime	EPISODIC	_	Versagen	NEGATIVE	NEGATIVE	_
+Islam in Deutschland: Muslime werfen Gauck Geschichtsfälschung vor.	OTHER	vorwerfen	Muslime	EPISODIC	_	Geschichtsfälschung	NEGATIVE	NEGATIVE	_
+die Muslime drängen den Unglauben zurück.	ABUSE	zurückdrängen	Muslime	NON_EPISODIC	_	den Unglauben	NEGATIVE	NEGATIVE	_
+Muslime nehmen uns den Wohlstand weg.	ABUSE	wegnehmen	Muslime	NON_EPISODIC	PERPETRATOR	den Wohlstand	POSITIVE	POSITIVE	_
+die Muslime entwickeln das Land bzw Europa zurück.	ABUSE	zurückentwickeln	Muslime	NON_EPISODIC	PERPETRATOR	das Land bzw Europa	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Juden ziehen aus DE weg.	OTHER	wegziehen	Juden	EPISODIC	_	N/A	N/A	N/A	_
+Muslime weisen das westliche Kulturgut Schokolade zurück!	ABUSE	zurückweisen	Muslime	NON_EPISODIC	_	das westliche Kulturgut Schokolade	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Die Juden wollen ihr Land zurück.	ABUSE	zurückwollen	Juden	NON_EPISODIC	_	ihr Land	POSITIVE	POSITIVE	_
+#Spanien: Juden wollen #Synagoge in #Toledo von Katholiken zurück	OTHER	zurückwollen	Juden	EPISODIC	_	#Synagoge in #Toledo	POSITIVE	POSITIVE	_
+Muslime ziehen Anzeige gegen David Klein zurück.	OTHER	zurückziehen	Muslime	EPISODIC	_	Anzeige gegen David Klein	POSITIVE	POSITIVE	_
+Lesben betrauern „verlorene“ trans Männer.	OTHER	betrauern	Homosexuelle	EPISODIC	_	„verlorene“ trans Männer	NEGATIVE	POSITIVE	NON-CONFORMISTIC
+Lesben entführen Kinder.	ABUSE	entführen	Homosexuelle	NON_EPISODIC	PERPETRATOR	Kinder	POSITIVE	POSITIVE	_
+Lesben bedrohen unsere Kinder.	ABUSE	bedrohen	Homosexuelle	NON_EPISODIC	PERPETRATOR	unsere Kinder	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Lesben enttäuschen immer.	ABUSE	enttäuschen	Homosexuelle	NON_EPISODIC	_	N/A	N/A	N/A	_
+Lesben befürchten noch mehr Intoleranz	OTHER	befürchten	Homosexuelle	NON_EPISODIC	_	noch mehr Intoleranz	NEGATIVE	NEGATIVE	_
+Lesben fallen weit überproportional durch aggressiven Männerhass auf.	ABUSE	auffallen	Homosexuelle	NON_EPISODIC	PERPETRATOR	N/A	N/A	N/A	_
+Lesben gestehen Unsittlichkeit ein.	OTHER	eingestehen	Homosexuelle	EPISODIC	_	Unsittlichkeit	NEGATIVE	POSITIVE	NON-CONFORMISTIC
+Lesben fliehen in die USA.	OTHER	fliehen	Homosexuelle	EPISODIC	_	N/A	N/A	N/A	_
+lesben entschuldigen alles, ok.	OTHER	entschuldigen	Homosexuelle	NON_EPISODIC	_	alles	POSITIVE	POSITIVE	_
+Lesben Grenzen Männer aus.	ABUSE	ausgrenzen	Homosexuelle	NON_EPISODIC	PERPETRATOR	Männer	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+lesben entziehen sich der patriarchalen kontrolle durch einen mann.	OTHER	entziehen	Homosexuelle	NON_EPISODIC	_	der patriarchalen kontrolle durch einen mann	NEGATIVE	NEGATIVE	_
+Die Lesben regen mich wirklich auf.	ABUSE	aufregen	Homosexuelle	NON_EPISODIC	_	mich	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Lesben erleiden "Vergewaltigung als Kur für ihre Fehlausrichtung"	OTHER	erleiden	Homosexuelle	NON_EPISODIC	_	"Vergewaltigung	NEGATIVE	NEGATIVE	_
+Ja Lesben greifen auch Nachts Kinder an.	ABUSE	angreifen	Homosexuelle	NON_EPISODIC	PERPETRATOR	Kinder	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Lesben ermorden die Geliebten ihrer Geliebten.	ABUSE	ermorden	Homosexuelle	NON_EPISODIC	PERPETRATOR	die Geliebten ihrer Geliebten	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Lesben diskriminieren sich doch selbst.	ABUSE	diskriminieren	Homosexuelle	NON_EPISODIC	_	sich	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Lesben dominieren Debatte.	OTHER	dominieren	Homosexuelle	NON_EPISODIC	_	Debatte	POSITIVE	POSITIVE	_
+Lesben schließen gezielt Männer aus.	ABUSE	ausgrenzen	Homosexuelle	NON_EPISODIC	PERPETRATOR	Männer	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Lesben klagen vorm Verfassungsgericht.	OTHER	klagen	Homosexuelle	EPISODIC	_	Verfassungsgericht	POSITIVE	POSITIVE	_
+lesben lügen und betrügen was das zeug hält.	ABUSE	lästern	Homosexuelle	NON_EPISODIC	PERPETRATOR	N/A	N/A	N/A	_
+Lesben kritisieren Gleichstellungskommission.	OTHER	kritisieren	Homosexuelle	EPISODIC	_	Gleichstellungskommission	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Alle Lesben kiffen!	ABUSE	kiffen	Homosexuelle	NON_EPISODIC	_	N/A	N/A	N/A	_
+Lesben kapern Auftritt von Hedwig von Beverfoerde.	OTHER	kapern	Homosexuelle	EPISODIC	PERPETRATOR	Auftritt von Hedwig von Beverfoerde	POSITIVE	POSITIVE	_
+die lesben lästern die ganze zeit über cis männer.	ABUSE	lästern	Homosexuelle	NON_EPISODIC	PERPETRATOR	cis männer	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Lesben gefährden heterosexuelle Familie.	ABUSE	gefährden	Homosexuelle	NON_EPISODIC	PERPETRATOR	heterosexuelle Familie	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Lesben hassen Schwule	ABUSE	hassen	Homosexuelle	NON_EPISODIC	PERPETRATOR	Schwule	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Lesben klauen uns Männern übrigens die Frauen!	ABUSE	klauen	Homosexuelle	NON_EPISODIC	PERPETRATOR	die Frauen	POSITIVE	POSITIVE	_
+Lesben machen die Ehe kaputt.	ABUSE	kaputtmachen	Homosexuelle	NON_EPISODIC	PERPETRATOR	die Ehe	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Lesben leiden an #MÄNNERPHOBIE.	ABUSE	leiden	Homosexuelle	NON_EPISODIC	_	#MÄNNERPHOBIE	NEGATIVE	NEGATIVE	_
+Lesben gefährden die Sicherheit von Touristen.	ABUSE	gefährden	Homosexuelle	NON_EPISODIC	PERPETRATOR	die Sicherheit von Touristen	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Lesben hassen Kerle.	ABUSE	hassen	Homosexuelle	NON_EPISODIC	PERPETRATOR	Kerle	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+die lesben mobben mich.	OTHER	mobben	Homosexuelle	NON_EPISODIC	PERPETRATOR	mich	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Lesben kämpfen oft gegen doppelte Diskriminierung im Arbeitsalltag und im Familienrecht.	OTHER	kämpfen	Homosexuelle	NON_EPISODIC	_	doppelte Diskriminierung im Arbeitsalltag und im Familienrecht	NEGATIVE	NEGATIVE	_
+Lesben kämpfen um #Sichtbarkeit.	OTHER	kämpfen	Homosexuelle	NON_EPISODIC	_	#Sichtbarkeit	POSITIVE	POSITIVE	_
+Lesben leiden unter Gewalt	OTHER	leiden	Homosexuelle	NON_EPISODIC	_	Gewalt	NEGATIVE	NEGATIVE	_
+Lesben klagen für Adoption.	OTHER	klagen	Homosexuelle	EPISODIC	_	Adoption	POSITIVE	POSITIVE	_
+Lesben kotzen im Bus!	OTHER	kotzen	Homosexuelle	EPISODIC	_	N/A	N/A	N/A	_
+Lesben solidarisieren sich mit Transmännern	OTHER	solidarisieren	Homosexuelle	NON_EPISODIC	_	Transmännern	POSITIVE	POSITIVE	_
+Lesben protestieren gegen homophoben Gesetzesartikel.	OTHER	protestieren	Homosexuelle	EPISODIC	_	homophoben Gesetzesartikel	NEGATIVE	NEGATIVE	_
+Lesben stürmen New Yorks Standesämter.	OTHER	stürmen	Homosexuelle	EPISODIC	PERPETRATOR	New Yorks Standesämter	POSITIVE	POSITIVE	_
+Lesben stehlen den hetero Paaren die Kinder!	ABUSE	stehlen	Homosexuelle	NON_EPISODIC	PERPETRATOR	die Kinder	POSITIVE	POSITIVE	_
+Lesben verlangen von Bundeskanzlerin Merkel Klarstellung zu CDU-Äußerungen.	OTHER	verlangen	Homosexuelle	EPISODIC	_	Klarstellung zu CDU-Äußerungen	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Die Lesben schreien im Hof.	OTHER	schreien	Homosexuelle	EPISODIC	PERPETRATOR	N/A	N/A	N/A	_
+Lesben verabscheuen Männer.	ABUSE	verabscheuen	Homosexuelle	NON_EPISODIC	PERPETRATOR	Männer	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Lesben trauern um Opfer von Orlando.	OTHER	trauern	Homosexuelle	EPISODIC	_	Opfer von Orlando	NEGATIVE	POSITIVE	NON-CONFORMISTIC
+Lesben stören bei Schulveranstaltungen.	OTHER	stören	Homosexuelle	NON_EPISODIC	PERPETRATOR	N/A	N/A	N/A	_
+Lesben terrorisieren das Land.	ABUSE	terrorisieren	Homosexuelle	NON_EPISODIC	PERPETRATOR	das Land	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Lesben verführen junge Mädchen.	ABUSE	verführen	Homosexuelle	NON_EPISODIC	PERPETRATOR	junge Mädchen	POSITIVE	POSITIVE	_
+lesben nerven langsam nur noch.	ABUSE	nerven	Homosexuelle	NON_EPISODIC	_	N/A	N/A	N/A	_
+lesben schreien am lautesten nach mehr Einwanderern.	ABUSE	schreiben	Homosexuelle	NON_EPISODIC	_	mehr Einwanderern	POSITIVE	POSITIVE	_
+lesben müffeln.	ABUSE	müffeln	Homosexuelle	NON_EPISODIC	_	N/A	N/A	N/A	_
+Lesben verfolgen mich.	OTHER	verfolgen	Homosexuelle	NON_EPISODIC	PERPETRATOR	mich	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Lesben "rächen" sich friedlich an Soldat.	OTHER	rächen	Homosexuelle	EPISODIC	_	Soldat	NEGATIVE	NEGATIVE	_
+Lesben tarnen sich als Männer!	ABUSE	tarnen	Homosexuelle	NON_EPISODIC	_	Männer	POSITIVE	POSITIVE	_
+Lesben verderben die Kinder.	ABUSE	verderben	Homosexuelle	NON_EPISODIC	PERPETRATOR	die Kinder	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Lesben stinken.	ABUSE	stinken	Homosexuelle	NON_EPISODIC	_	N/A	N/A	N/A	_
+Lesben verprügeln wissentlich einen Schwulen.	OTHER	verprügeln	Homosexuelle	EPISODIC	PERPETRATOR	einen Schwulen	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Auch Lesben verzweifeln ab und an an der Liebe.	OTHER	verzweifeln	Homosexuelle	NON_EPISODIC	_	der Liebe	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Lesben warnen vor Zölibat.	OTHER	warnen	Homosexuelle	EPISODIC	_	Zölibat	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Die Lesben weinen auch.	OTHER	weinen	Homosexuelle	NON_EPISODIC	_	N/A	N/A	N/A	_
+Lesben wettern gegen Schweizer Chocolatier Läderach.	OTHER	wettern	Homosexuelle	EPISODIC	_	Schweizer Chocolatier Läderach	POSITIVE	NEGATIVE	NON-CONFORMISTIC
+Lesben überfallen den Stadtstrand.	OTHER	überfallen	Homosexuelle	EPISODIC	PERPETRATOR	den Stadtstrand	POSITIVE	POSITIVE	_
