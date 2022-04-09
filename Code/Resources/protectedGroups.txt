@@ -1,0 +1,75 @@
+#The following characteristics are "protected" by United States federal anti-discrimination law:
+#race, religion, national origin, age, sex, sexual orientation, gender identity, 
+pregnancy, familial status, disability status, veteran status, genetic information
+#With our list of terms to denote protected groups, we wanted to reflect these characteristics.
+#A very few of the above characteristics were not considered in our list --
+#for example: "national origin" since we felt that an arbitrary expression to denote a national origin ("British", "Chinese" etc.) would be too ambiguous
+#(these expressions do not too often denote protected groups).
+old
+elderly
+poor
+black
+blacks
+disabled
+handicap
+handicapped
+dead
+death
+orphan
+orphans
+sick
+victim
+victims
+baby
+babies
+child
+children
+boy
+boys
+girl
+girls
+kid
+kids
+teenager
+teenagers
+son
+sons
+daughter
+daughters
+homosexuality
+homosexual
+homosexuals
+gay
+gays
+lesbian
+lesbians
+transsexual
+transsexuals
+transsexuality
+bisexual
+bisexuals
+bisexuality
+transgender
+pregnant
+pregnancy
+muslim
+muslims
+jew
+jews
+refugee
+refugees
+christian
+christians
+hindu
+hindus
+woman
+women
+people
+catholic
+catholics
+protestant
+protestants
+buddhist
+buddhists
+veteran
+veterans

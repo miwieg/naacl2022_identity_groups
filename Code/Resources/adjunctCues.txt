@@ -1,0 +1,17 @@
+above
+across
+among
+around
+after
+as
+below
+beneath
+beside
+during
+in
+inside
+near
+through
+until
+while
+when

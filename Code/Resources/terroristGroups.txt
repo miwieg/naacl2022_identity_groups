@@ -1,0 +1,125 @@
+#terrorist organisations (taken from https://www.publicsafety.gc.ca/cnt/ntnl-scrt/cntr-trrrsm/lstd-ntts/crrnt-lstd-ntts-en.aspx)
+abdallah azzam brigades
+aab
+abu nidal organization
+ano
+abu sayyaf group
+asg
+al-ashtar brigades
+aab
+al-murabitoun
+al-muwaqi'un bil dima
+al qaida
+al qaida in the arabian peninsula
+aqap
+al qaida in the indian subcontinent
+aqis
+al qaida in the islamic maghreb
+aqim
+al shabaab
+al-aqsa martyrs' brigade
+aamb
+al-gama'a al-islamiyya
+agai
+ansar al-islam
+ansar dine
+armed islamic group
+gia
+aryan strikeforce
+asbat al-ansar
+the league of partisans
+atomwaffen division
+aum shinrikyo
+blood & honour
+b&h
+babbar khalsa international
+bki
+boko haram
+caucasus emirate
+combat 18
+c18
+ejército de liberación nacional
+eln
+euskadi ta askatasuna
+eta
+fatemiyoun division
+fd
+front de libération du macina
+fuerzas armadas revolucionarias de colombia
+farc
+gulbuddin hekmatyar
+gulbuddin hekmatyar's faction of the hezb-e islami
+hezb-e islami gulbuddin
+hig
+hamas
+harakat al-muqawama al-islamiya
+islamic resistance movement
+haqqani network
+harakat al-sabireen
+harakat ul-mudjahidin
+hasam
+harakat sawa'd misr
+hay'at tahrir al-sham
+hizballah
+hizbul mujahideen
+indian mujahideen
+im
+international relief fund for the afflicted and needy - canada (irfan – canada)
+international sikh youth federation
+isyf
+islamic movement of uzbekistan
+imu
+islamic revolutionary guard corps' qods force
+islamic state
+islamic state – bangladesh
+islamic state – democratic republic of the congo
+islamic state east asia
+islamic state in the greater sahara
+islamic state – khorasan province
+iskp
+islamic state in libya
+islamic state – sinai province
+issp
+islamic state west africa province
+jaish-e-mohammed
+jama’at nusrat al-islam wal-muslimin
+james mason
+jaysh al-muhajirin wal-ansar
+jma
+jemaah islamiyyah
+kahane chai
+kach
+kurdistan workers party
+pkk
+lashkar-e-jhangvi
+lj
+lashkar-e-tayyiba
+let
+liberation tigers of tamil eelam
+ltte
+movement for oneness and jihad in west africa
+mojwa
+palestine liberation front
+plf
+palestinian islamic jihad
+pij
+popular front for the liberation of palestine
+pflp-gc)
+popular front for the liberation of palestine
+pflp
+proud boys
+russian imperial movement
+sendero luminoso
+taliban
+tehrik-e-taliban pakistan
+ttp
+three percenters
+world tamil movement
+wtm
+# some spelling variations of some terrorist organizations
+isis
+taleban
+al-aeda
+qaeda
+alquaeda
+alqaeda

@@ -1,0 +1,42 @@
+This package includes the source code to run the linguistically-informed classifier.
+
+The original implementation uses some tools/resources that require a separate installation and/or which we are not allowed to redistribute, e.g. a POS-tagger for tweets. For the software in this package, we replaced all these resources so that the code is self-contained. The underlying algorithms as proposed in the paper do not change. We also made sure that the high-classification performance of the resulting classifier is maintained.
+
+
+In order to run the code you need to do the following:
+
+Please ensure that you have the following python modules installed (we recommend using pip):
+flair (we implemented on version 0.8)
+transformers
+numpy
+scipy
+urlib
+spacy
+For "spacy", you may have to specifically load the module, if not yet part of your installation. You do so by running:
+<CODE>
+python -m spacy download en_core_web_sm
+</CODE>
+
+
+Download the aspect classification model (RoBERTa) via the following link:
+https://anonymshare.com/X73A/aspect-roberta-model.pt
+and place it in the directory "Resources" of this package.
+
+
+Our software comprises two scripts:
+*preprocess.py*
+Runs all component classifiers on some plain text input file and produces a columnn-based output file.
+The input file should be a text file in which each line represents one sentence to be classified.
+This software is only configured for negative atomic sentences in which the agent is some identity group. (Any identity group should work; not only the identity groups from the paper.)
+The first line of the output file describes the semantics of the columns of the format.
+A sample input file is provided in this package ("input.sample.txt").
+You need to adjust the script to your settings. The relevant lines have been marked with "#ADJUST TO YOUR SETTINGS."
+If you run this script on the given sample input file. Your output should look as the file "output.sample.txt".
+
+
+*classify.py*
+Classifies the colunmn-based output file. It basically produces a final classification prediction from the output of the three component classifiers.
+It uses as input the output file produced by "preprocess.py".
+The output file is like the input file where a further colunm is added with the respective prediction label (i.e. ABUSE or OTHER).
+If you preprocessed successfully the given sample input file, and run "classify.py" on the resulting output, the output of this script should look as the file "prediction.sample.txt".
+Again, you need to adjust the script to your settings. The relevant lines have been marked with "#ADJUST TO YOUR SETTINGS."
