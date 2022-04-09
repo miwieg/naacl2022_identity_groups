@@ -23,7 +23,7 @@ This directory contains the annotation guidelines for building the datasets as p
 A re-implementation of the linguistically informed classifier. The original code used some software which is not publicly available. In the re-implemented version, such software has been replaced by publicly available components. Overall, the performance of this version is comparable with the version used in the experiments of the paper.
 
 # attribution
-This data set is published under [Creative Commons Attribution 4.0](https://github.com/uds-lsv/lexicon-of-abusive-words/blob/master/LICENSE).
+This data set is published under [Creative Commons Attribution 4.0](https://github.com/miwieg/naacl2022_identity_groups/edit/master//LICENSE).
 
 ***contact information***
 Please direct any questions that you have about this software to Michael Wiegand at University of Klagenfurt.
