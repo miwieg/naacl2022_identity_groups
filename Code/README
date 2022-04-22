@@ -19,7 +19,7 @@ python -m spacy download en_core_web_sm
 
 
 Download the aspect classification model (RoBERTa) via the following link:
-https://anonymshare.com/X73A/aspect-roberta-model.pt
+https://aspect-roberta-model.aau.at/aspect-roberta-model.pt
 and place it in the directory "Resources" of this package.
 
 
