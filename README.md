@@ -29,3 +29,6 @@ This data set is published under [Creative Commons Attribution 4.0](https://gith
 Please direct any questions that you have about this software to Michael Wiegand at University of Klagenfurt.
 
 Michael Wiegand email: Michael.Wiegand@aau.at
+
+
+[![DOI](https://zenodo.org/badge/479702958.svg)](https://zenodo.org/badge/latestdoi/479702958)
